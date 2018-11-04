@@ -1,3 +1,21 @@
-baseURL = https://Huny-B.info/
+theme="amp"
+
+baseURL = "https://Huny-B.info/"
 languageCode = "en-us"
-title = Huny-B.info
+title = "Huny-B.info"
+
+copyright = "© 2018 Huny-B CBD-Oil Ltd Co. All Rights Reserved"
+canonifyurls = true
+
+[params]
+  description = "Huny-B CBD-Oil product information portal." #optional
+  googleanalytics = "UA-128206672-2" # optional
+
+# optional
+[social]
+  twitter = "HunyBcbd"
+  #github = "Your Github Name"
+  facebook = "HunyBcbd"
+  #gplus = "Your Google+ profile name"
+  #linkedin = "Your LinkedIn Name"
+
