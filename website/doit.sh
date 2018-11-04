@@ -29,10 +29,24 @@ declare -a arr=(
 ## now loop through the above array
 for i in "${arr[@]}"
 do
-   echo "$i"
+    echo "$i.git"
 
-   # create New Site
-   if [ ! -d ./$i ]; then
-      hugo new site $i
-   fi
+    # create New Site
+    if [ ! -d ./$i ]; then
+        hugo new site $i
+        cd $i
+        echo $i >CNAME
+        rm -rf themes
+        ln -s ../../web/themes
+        git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public
+        echo -e 'baseURL = '"https://$i/"'\nlanguageCode = "en-us"\ntitle = '$i >config.toml
+        cd ..
+    fi
+
+    cd $i
+    # do something.
+    cd ..
 done
+
+#git submodule init
+#git pull --recurse-submodules
