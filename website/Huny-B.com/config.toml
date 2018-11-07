@@ -1,3 +1,4 @@
-baseURL = https://Huny-B.com/
+baseURL = "https://Huny-B.com/"
 languageCode = "en-us"
-title = Huny-B.com
+title = "Huny-B.com"
+  gtag('config', 'UA-128206672-3');
