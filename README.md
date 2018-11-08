@@ -1,5 +1,17 @@
 # Project-Online - Huny-B-CBD-Oil
 
+## Installation
+
+In your `Documents/GitHub/Huny-B-CBD-Oil/' folder, execute each line in Git Bash.
+
+``` bash
+    git clone git@github.com:Huny-B-CBD-Oil/Project-Online.git
+    cd Project-Online
+    script/init-subs.sh
+```
+
+## Company specific layout decisions
+
 AppEngine Services are defined in their respective directorories in /cmd
 hugo sites are defined in their respective directories in /website
 
