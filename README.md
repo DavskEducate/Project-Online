@@ -7,7 +7,7 @@ In your `Documents/GitHub/Huny-B-CBD-Oil/' folder, execute each line in Git Bash
 ``` bash
     git clone git@github.com:Huny-B-CBD-Oil/Project-Online.git
     cd Project-Online
-    script/init-subs.sh
+    # script/init-subs.sh
 ```
 
 ## Company specific layout decisions
