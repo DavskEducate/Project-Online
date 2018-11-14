@@ -1,0 +1,12 @@
+# `robots.txt`
+# by David Skinner
+# on October 28, 2018
+
+User-agent: *
+
+Allow: /*.html$
+
+Disallow: /*/data/*
+Disallow: *.dl.html
+
+Sitemap: https://huny-b.cbd-oil.app/sitemap.xml

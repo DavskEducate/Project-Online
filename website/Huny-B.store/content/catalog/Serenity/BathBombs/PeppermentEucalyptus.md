@@ -8,7 +8,7 @@ UPC:
  - 50003-02491, 144
 categories:
   - products
-description: We designed our 50 mg CBD Peppermint and Euclyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: We designed our 50 mg CBD Peppermint and Eucalyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 keywords: 
   - CBD
   - Pepperment Essential Oil
