@@ -8,6 +8,7 @@
 
 # Copyright (c) 2018 Davsk. All Rights Reserved.
 
+windows() { [[ -n "$WINDIR" ]]; }
 ## link all themes to web themes
 #cd web
 #rm -rf themes
@@ -39,25 +40,20 @@ do
         echo $i
         rm -rf themes
         rm -rf public
-#        git add -A
-#        git commit -m $i
-#        ln -s ../../web/themes
-#        git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public
+        git add -A
+        git commit -m $i
+		
+        if windows; then
+           cmd <<< "mklink /D themes \..\..\web\themes > /dev/null
+        else
+           ln -s ../../web/themes
+        fi
+		
+		git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public
     cd ..
 done
 
 git add -A
 git commit -m "Clear"
-        
-## now loop through the above array
-for i in "${arr[@]}"
-do
-    cd $i
-        echo $i
-        ln -s ../../web/themes
-        git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public
-    cd ..
-done
-
 git submodule init
 git pull --recurse-submodules
