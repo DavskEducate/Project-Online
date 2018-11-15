@@ -1,3 +1,114 @@
-baseURL = https://SativaDelight.com/
+baseURL = "http://SativaDelight.com/"
 languageCode = "en-us"
-title = SativaDelight.com
+title = "SativaDelight.com"
+theme = "meghna-hugo"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Service"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Portfolio"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Pricing"
+    URL = "pricing"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "static/images/logo.jpg"
+gmapAPI = ""
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/green.jpg"
+    icon = "tf-ion-play"
+    heading = "Experience the new reality"
+    content= "Live your life pain free!"
+    btn = true
+    btnText="Explore Us"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Great Design & Incredible Results"
+    content = "Our bath bombs are specifically designed to relieve pain after a long day."
+    
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Types of Bath Bombs"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+    
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team"
+        copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+		url = "https://www.facebook.com/HunyBcbd/"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+       
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-pinterest-outline"

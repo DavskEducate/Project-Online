@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : We're Creative
+  content : We manufacture natural personal care products in Delight, Arkansas, USA containing CBD Oil Isolates derived from the Hemp plant. Educate Yourself!
+
+- icon : tf-strategy
+  title : We're Professional
+  content : We are a company founded on the basis of friendship and hope. The friendship we have with each other. The hope we have is for everyone. We felt a need in our lives to be a positive influence on the environment, our society, and those in need.
+
+- icon : tf-anchor2
+  title : We're Genius
+  content : We work to carry out these core principles by using recyclable materials, sourcing such materials for our use when and where we can. We are developing work areas for children with Autism simply because it has hit those we love. We believe in saving the bees. We include the lab report to ensure that we are not using products treated with pesticides. As we grow, our efforts will grow.
