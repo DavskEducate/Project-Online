@@ -50,6 +50,8 @@ do
 #        fi
 		
 		if windows; then
+		   git add -A
+		   git commit -m pub$i
            mkdir public
 		   git add -A
 		   git commit -m pub$i
@@ -64,5 +66,5 @@ done
 
 git add -A
 git commit -m "Clear"
-git submodule init
-git pull --recurse-submodules
+#git submodule init
+#git pull --recurse-submodules
