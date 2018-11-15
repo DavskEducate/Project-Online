@@ -38,18 +38,27 @@ for i in "${arr[@]}"
 do
     cd $i
         echo $i
-        rm -rf themes
-        rm -rf public
-        git add -A
-        git commit -m $i
+#        rm -rf themes
+       rm -rf public
+#        git add -A
+#        git commit -m $i
 		
-        if windows; then
-           cmd <<< "mklink /D themes \..\..\web\themes" > /dev/null
+#        if windows; then
+#           cmd <<< "mklink /D themes \..\..\web\themes" > /dev/null
+#        else
+#           ln -s ../../web/themes
+#        fi
+		
+		if windows; then
+           mkdir public
+		   git add -A
+		   git commit -m pub$i
+		   rm -rf public
+		   git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public 
         else
-           ln -s ../../web/themes
+         git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public 
         fi
 		
-		git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public
     cd ..
 done
 
