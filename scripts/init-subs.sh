@@ -57,7 +57,7 @@ do
             fi
 		fi
         
-		#if [[ ! -d "public/.git" ]]; then
+		if [[ ! -d "public/.git" ]]; then
             if windows; then
                rm -rf public
                git add -A
@@ -66,7 +66,7 @@ do
             else
                git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i public 
             fi
-       # fi
+       fi
 		
     cd ..
 done
