@@ -51,7 +51,7 @@ do
             git commit -m $i
 		
             if windows; then
-               cmd <<< "mklink /D themes \..\..\web\themes" > /dev/null
+               cmd <<< "mklink /J themes .\..\..\web\themes" > /dev/null
             else
                ln -s ../../web/themes
             fi
