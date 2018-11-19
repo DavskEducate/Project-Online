@@ -58,3 +58,7 @@
 	path = scripts/public
 	url = git@github.com:Huny-B-CBD-Oil/Huny-B.com.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:Huny-B-CBD-Oil/Huny-B.net.git
+	branch = master

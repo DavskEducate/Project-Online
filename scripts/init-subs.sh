@@ -9,11 +9,12 @@
 # Copyright (c) 2018 Davsk. All Rights Reserved.
 
 windows() { [[ -n "$WINDIR" ]]; }
-## link all themes to web themes
-#cd web
-#rm -rf themes
-#git clone --depth 1 --recursive https://github.com/gohugoio/hugoThemes.git themes
-#cd ../website
+# link all themes to web themes
+cd web
+rm -rf themes
+git clone --depth 1 --recursive https://github.com/gohugoio/hugoThemes.git themes
+cd ../website
+exit
 cd website
 ## declare an array variable
 declare -a arr=(
