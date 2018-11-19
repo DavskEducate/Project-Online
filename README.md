@@ -1,13 +1,27 @@
 # Project-Online - Huny-B-CBD-Oil
 
 ## Installation
+Install prerequisites first.
+
+### Win10 Notes
+#### Developers Mode.
+Developer mode must be enable for mklink to create symbolic links.
+* Press Start, search for develpers, setup enable Developers mode.
+
+#### Enable Long Filenames on Git if using Windows10
+``` bash
+   git config --global core.longpaths true
+```
+
+### Clone repository
+Note: repository includes the company Project-Online repo and all hugoThemes and public repos for hosting purposes..
 
 In your `Documents/GitHub/Huny-B-CBD-Oil/' folder, execute each line in Git Bash.
 
 ``` bash
     git clone git@github.com:Huny-B-CBD-Oil/Project-Online.git
     cd Project-Online
-    # script/init-subs.sh
+    script/init-subs.sh
 ```
 
 ## Company specific layout decisions
