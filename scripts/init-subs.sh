@@ -57,18 +57,16 @@ do
             fi
 		fi
         
-#		if windows; then
-#		   rm -rf public
-#           git add -A
-#		   git commit -m pub$i
-#           mkdir public
-#		   git add -A
-#		   git commit -m pub$i
-#		   rm -rf public
-#		   git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public 
-#        else
-#         git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i.git public 
-#        fi
+		#if [[ ! -d "public/.git" ]]; then
+            if windows; then
+               rm -rf public
+               git add -A
+               git commit -m public $i
+               git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i public 
+            else
+               git submodule add -b master git@github.com:Huny-B-CBD-Oil/$i public 
+            fi
+       # fi
 		
     cd ..
 done

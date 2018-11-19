@@ -8,51 +8,51 @@
 	branch = master
 [submodule "website/Huny-B.org/public"]
 	path = website/Huny-B.org/public
-	url = git@github.com:Huny-B-CBD-Oil/Huny-B.org.git
+	url = git@github.com:Huny-B-CBD-Oil/Huny-B.org
 	branch = master
 [submodule "website/Huny-B.info/public"]
 	path = website/Huny-B.info/public
-	url = git@github.com:Huny-B-CBD-Oil/Huny-B.info.git
+	url = git@github.com:Huny-B-CBD-Oil/Huny-B.info
 	branch = master
 [submodule "website/Huny-B.online/public"]
 	path = website/Huny-B.online/public
-	url = git@github.com:Huny-B-CBD-Oil/Huny-B.online.git
+	url = git@github.com:Huny-B-CBD-Oil/Huny-B.online
 	branch = master
 [submodule "website/Huny-B.store/public"]
 	path = website/Huny-B.store/public
-	url = git@github.com:Huny-B-CBD-Oil/Huny-B.store.git
+	url = git@github.com:Huny-B-CBD-Oil/Huny-B.store
 	branch = master
 [submodule "website/JustLegalHemp.com/public"]
 	path = website/JustLegalHemp.com/public
-	url = git@github.com:Huny-B-CBD-Oil/JustLegalHemp.com.git
+	url = git@github.com:Huny-B-CBD-Oil/JustLegalHemp.com
 	branch = master
 [submodule "website/JustLegalHemp.net/public"]
 	path = website/JustLegalHemp.net/public
-	url = git@github.com:Huny-B-CBD-Oil/JustLegalHemp.net.git
+	url = git@github.com:Huny-B-CBD-Oil/JustLegalHemp.net
 	branch = master
 [submodule "website/JustLegalHemp.info/public"]
 	path = website/JustLegalHemp.info/public
-	url = git@github.com:Huny-B-CBD-Oil/JustLegalHemp.info.git
+	url = git@github.com:Huny-B-CBD-Oil/JustLegalHemp.info
 	branch = master
 [submodule "website/SativaDelight.com/public"]
 	path = website/SativaDelight.com/public
-	url = git@github.com:Huny-B-CBD-Oil/SativaDelight.com.git
+	url = git@github.com:Huny-B-CBD-Oil/SativaDelight.com
 	branch = master
 [submodule "website/SativaDelight.net/public"]
 	path = website/SativaDelight.net/public
-	url = git@github.com:Huny-B-CBD-Oil/SativaDelight.net.git
+	url = git@github.com:Huny-B-CBD-Oil/SativaDelight.net
 	branch = master
 [submodule "website/SativaDelight.org/public"]
 	path = website/SativaDelight.org/public
-	url = git@github.com:Huny-B-CBD-Oil/SativaDelight.org.git
+	url = git@github.com:Huny-B-CBD-Oil/SativaDelight.org
 	branch = master
 [submodule "website/SativaDelight.info/public"]
 	path = website/SativaDelight.info/public
-	url = git@github.com:Huny-B-CBD-Oil/SativaDelight.info.git
+	url = git@github.com:Huny-B-CBD-Oil/SativaDelight.info
 	branch = master
 [submodule "website/Huny-B.CBD-Oil.App/public"]
 	path = website/Huny-B.CBD-Oil.App/public
-	url = git@github.com:Huny-B-CBD-Oil/Huny-B.CBD-Oil.App.git
+	url = git@github.com:Huny-B-CBD-Oil/Huny-B.CBD-Oil.App
 	branch = master
 [submodule "scripts/public"]
 	path = scripts/public
