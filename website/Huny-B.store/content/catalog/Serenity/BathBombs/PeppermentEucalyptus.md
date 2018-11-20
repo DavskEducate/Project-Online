@@ -3,9 +3,9 @@ title: 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 app
 author: belinda.gates@cbd-oil.app
 date: 2018-10-20
 UPC: 
- - 50003-02401, 1
- - 50003-02481, 12
- - 50003-02491, 144
+ - 8-50003-02401, 1
+ - 8-50003-02481, 12
+ - 8-50003-02491, 144
 categories:
   - products
 description: We designed our 50 mg CBD Peppermint and Eucalyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
