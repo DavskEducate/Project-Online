@@ -1,17 +1,16 @@
 ---
-title: 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 app
+title: 50 mg CBD Serenity Bath Bombs Peppermint and Eucalyptus 1 app
 author: belinda.gates@cbd-oil.app
 date: 2018-10-20
+gtin: 00850003024011
 UPC: 
- - 8-50003-02401, 1
- - 8-50003-02481, 12
- - 8-50003-02491, 144
+ - 8-50003-02401-1, 1
 categories:
   - products
 description: We designed our 50 mg CBD Peppermint and Eucalyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 keywords: 
   - CBD
-  - Pepperment Essential Oil
+  - Peppermint Essential Oil
   - Eucalyptus Essential Oil
   - sore muscles
   - relief
@@ -41,7 +40,7 @@ keywords:
   - spa]
 tags: 
   - CBD
-  - Pepperment Essential Oil
+  - Peppermint Essential Oil
   - Eucalyptus Essential Oil
   - sore muscles
   - soak
@@ -49,23 +48,16 @@ tags:
   - pain
   - spa]
 resImgTeaser: something.png
-slug: 50mgCBDBathBombsPepEuc1
+slug: peppermint-eucalyptus
 
 ---
 
-# 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 application
+# 50 mg CBD Serenity Bath Bombs Peppermint & Eucalyptus 1 application
 ## price
 ### USD
 Retail $12.99
 Shipping 3.95
-### UK
-£9.97
-### Canada
-$16.99
-### Australia
-$18.25
-### EU
-€11.25
+
 ## Front Panel
 ### Product
     50 mg CBD
@@ -78,12 +70,10 @@ $18.25
     1 application
 ## Information Panels
 ### Direction for Safe Use
-Drop your bathbomb into a warm bath and enjoy the soak.
+Drop your bath bomb into a warm bath and enjoy the soak.
 
 ### Warnings
-<span class="WarningTheme">
   Caution: Tub may be slippery when entering and exiting.
-</span>
 
 ### Intended Use
 Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
@@ -100,16 +90,4 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 ### Other Ingredients
 * Polysorbate 80
 * Mica Color
-## Ingredients en-UK 
-### Active Ingredients
-* CBD
-* Citric Acid
-* Baking Soda
-* Epson Salt
-* Cornstarch
-* Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
-### Other Ingredients
-* Polysorbate 80
-* Mica Color
+
