@@ -1,5 +1,5 @@
 ---
-title: 250 mg CBD Hemp Healing Salve
+title: 250 mg CBD Hemp Oil Heat Rub
 author: belinda.gates@cbd-oil.app
 date: 2019-10-10
 UPC: 
@@ -52,7 +52,7 @@ slug: 50mgCBDBathBombsPepEuc1
 
 ---
 
-# Hemp Liniment Salve 
+# Hemp Oil Heat Rub  
 ## price
 ### USD
 Retail $49.99
