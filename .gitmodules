@@ -1,10 +1,10 @@
 [submodule "website/Huny-B.com/public"]
 	path = website/Huny-B.com/public
-	url = git@github.com:Huny-B-CBD-Oil/Huny-B.com.git
+	url = git@github.com:Huny-B-CBD-Oil/Huny-B.com
 	branch = master
 [submodule "website/Huny-B.net/public"]
 	path = website/Huny-B.net/public
-	url = git@github.com:Huny-B-CBD-Oil/Huny-B.net.git
+	url = git@github.com:Huny-B-CBD-Oil/Huny-B.net
 	branch = master
 [submodule "website/Huny-B.org/public"]
 	path = website/Huny-B.org/public
