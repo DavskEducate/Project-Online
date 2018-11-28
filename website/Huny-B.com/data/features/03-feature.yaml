@@ -1,0 +1,7 @@
+weight:      3
+name:        "Shower melts"
+icon:        "fas fa-globe"
+animated:    "slideInRight"
+url:         pages/front/features/03
+description: |
+  Relief.
