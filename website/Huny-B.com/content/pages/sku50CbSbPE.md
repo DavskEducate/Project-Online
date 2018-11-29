@@ -7,9 +7,9 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-icon:
+icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
 
-teaserpic:
+teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
 description: We designed our 50 mg CBD Peppermint and Euclyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 
@@ -87,10 +87,10 @@ keywords:
   
 tags: 
   - UPC 8-50003-02401-1
-  - GTIN 0085003024011
+  - GTIN 00850003024011
   - SKU 50CbSbPE
   
-resImgTeaser: something.png
+resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
 slug: sku50CbSbPE
 
@@ -102,6 +102,7 @@ slug: sku50CbSbPE
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
 ## Front Panel
     Huny-B CBD
     50 mg CBD Serenity Bath Bomb 
