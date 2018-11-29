@@ -1,0 +1,8 @@
+weight:      5
+name:        "User Feedback"
+icon:        "far fa-envelope"
+animated:    "rollIn"
+url:         pages/front/features/05
+description: |
+  * Let us know if you have any problems with using our products, or any problems with billing and shipping.
+  * Your opinion is important to us.

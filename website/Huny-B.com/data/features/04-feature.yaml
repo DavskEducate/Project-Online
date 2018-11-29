@@ -1,0 +1,8 @@
+weight:      4
+name:        "Personal Care Products"
+icon:        "far fa-lightbulb"
+animated:    "slideInLeft"
+url:         pages/front/features/04
+description: |
+  * Lotions.
+  * Liniments.
