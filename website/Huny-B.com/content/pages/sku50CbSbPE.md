@@ -116,8 +116,12 @@ slug: sku50CbSbPE
 ### Direction for Safe Use
     Drop your bathbomb into a warm bath and enjoy the soak.
 
-### Warnings
-    Caution: Tub may be slippery when entering and exiting.
+{{% w3-alert-icon 
+type="warning" 
+heading="Caution" %}}
+Tub may be slippery when entering and exiting.
+{{% /w3-alert-icon %}}
+  
 
 ## Ingredients en-US 
 ### Active Ingredients
