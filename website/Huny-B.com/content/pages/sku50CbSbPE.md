@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 app"
+title:       "Buy 50 mg CBD Serenity Bath Bombs Peppermint & Eucalyptus"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -11,7 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: We designed our 50 mg CBD Peppermint and Euclyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: We designed our 50 mg CBD Peppermint and Eucalyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 
 categories: 
   - catalog
@@ -42,7 +42,7 @@ ingredients:
   - CBD
   - Citric Acid
   - Baking Soda
-  - Epson Salt
+  - Epsom Salt
   - Cornstarch
   - Coconut Oil
   - Peppermint Essential Oil
@@ -52,7 +52,7 @@ keywords:
   - CBD
   - Citric Acid
   - Baking Soda
-  - Epson Salt
+  - Epsom Salt
   - Cornstarch
   - Coconut Oil
   - Peppermint Essential Oil
@@ -88,11 +88,11 @@ keywords:
 tags: 
   - UPC 8-50003-02401-1
   - GTIN 00850003024011
-  - SKU 50CbSbPE
+  - SKU 50CBSBPE
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku50CbSbPE
+slug: sku-50CBSBPE
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -103,21 +103,31 @@ slug: sku50CbSbPE
 </form>
 
 ![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
-## Front Panel
-    Huny-B CBD
-    50 mg CBD Serenity Bath Bomb 
-    Pepperment & Eucalyptus
-    Net Wt. 6 oz.
-    1 application
-## Information Panels
-### Intended Use
-    Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+{{< alert type="secondary" intro="Front Panel" >}}
+<br />Huny-B CBD
 
-### Direction for Safe Use
-    Drop your bathbomb into a warm bath and enjoy the soak.
+<br />50 mg CBD Serenity Bath Bomb 
+
+<br />Pepperment & Eucalyptus
+
+<br />Net Wt. 6 oz.
+
+<br />1 application
+{{< /alert >}}
+    
+## Information Panels
+{{% w3-notice-icon type="success" heading="Intended Use" %}}
+Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+{{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
 type="warning" 
+heading="Direction for Safe Use" %}}
+Drop your bath bomb into a warm bath and enjoy the soak.
+{{% /w3-alert-icon %}}
+
+{{% w3-alert-icon 
+type="danger" 
 heading="Caution" %}}
 Tub may be slippery when entering and exiting.
 {{% /w3-alert-icon %}}
@@ -128,7 +138,7 @@ Tub may be slippery when entering and exiting.
 * CBD
 * Citric Acid
 * Baking Soda
-* Epson Salt
+* Epsom Salt
 * Cornstarch
 * Coconut Oil
 * Peppermint Essential Oil
@@ -137,22 +147,6 @@ Tub may be slippery when entering and exiting.
 ### Other Ingredients
 * Polysorbate 80
 * Mica Color
-
-## Ingredients en-UK 
-
-### Active Ingredients
-    * CBD
-    * Citric Acid
-    * Baking Soda
-    * Epson Salt
-    * Cornstarch
-    * Coconut Oil
-    * Peppermint Essential Oil
-    * Eucalyptus Essential Oil
-
-### Other Ingredients
-    * Polysorbate 80
-    * Mica Color
 
 ## price
 
