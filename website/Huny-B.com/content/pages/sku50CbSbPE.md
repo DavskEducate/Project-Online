@@ -19,6 +19,9 @@ categories:
 products: 
   - Serenity Bath Bombs
 
+c:
+  - "01"
+  
 concerns:
   - Joint Inflammation
   - sleeplessness

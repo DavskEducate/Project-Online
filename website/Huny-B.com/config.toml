@@ -105,6 +105,7 @@ anchor = "smart"
   ingredient = "ingredients"
   product = "products"
   report = "reports"
+  qrcode = "c"
 	
 [Permalinks]
   blog = "/blog/:year/:month/:day/:filename/"
