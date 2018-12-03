@@ -10,7 +10,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: We designed our 20 mg CBD Shower Melts to give you that spa feeling and help soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils by using the steam to help enter your body. Educate Yourself. Learn more now about research regarding active ingredients.
+description: We designed our 20 mg CBD Shower Melts to give you that spa feeling and help relax your mind and body by taking advantage of the healing properties of CBD, Lavender and Bergamot Essential Oils by using the steam to help enter your body. Educate Yourself. Learn more now about research regarding active ingredients.
 categories: 
   - catalog
 
@@ -46,8 +46,8 @@ ingredients:
   - Epsom Salt
   - Cornstarch
   - Coconut Oil
-  - Peppermint Essential Oil
-  - Eucalyptus Essential Oil
+  - Lavemder Essential Oil
+  - Bergamot Essential Oil
 
 keywords: 
   - CBD
@@ -56,8 +56,8 @@ keywords:
   - Epsom Salt
   - Cornstarch
   - Coconut Oil
-  - Peppermint Essential Oil
-  - Eucalyptus Essential Oil
+  - Lavender Essential Oil
+  - Bergamot Essential Oil
   - Joint Inflammation
   - sleeplessness
   - neuropathy
@@ -87,13 +87,13 @@ keywords:
 
   
 tags: 
-  - UPC 8-50003-02413-4
-  - GTIN 00850003024134
-  - SKU 20cbsspe
+  - UPC 8-50003-02414-1
+  - GTIN 00850003024141
+  - SKU 20cbsslb
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-20cbsspe
+slug: sku-20cbsslb
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -111,7 +111,7 @@ slug: sku-20cbsspe
 
 <br />20 mg CBD Serenity Shower Melt 
 
-<br />Pepperment & Eucalyptus
+<br />Lavender & Bergamot
 
 <br />Net Wt. 2 oz.
 
@@ -120,7 +120,7 @@ slug: sku-20cbsspe
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils by the way of aromatherapy and entering your pours through the steam.
+Designed to soothe your relax your mind and body with the healing properties of CBD, Lavender and Bergamot Essential Oils by the way of aromatherapy and entering your pours through the steam.
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
@@ -142,8 +142,8 @@ Tub or shower may be slippery when entering and exiting.
 * Baking Soda
 * Epson Salt
 * Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+* Lavender Essential Oil
+* Bergamot Essential Oil
 ### Other Ingredients
 * water
 
