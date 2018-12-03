@@ -1,5 +1,5 @@
 ---
-title: 20 mg CBD Serenity Shower Steamers Lavender & Ylang Ylang 1 app
+title: 20 mg CBD Serenity Shower Melts Lavender & Bergamot 1 app
 author: belinda.gates@cbd-oil.app
 date: 2019-10-10
 UPC: 
@@ -12,7 +12,7 @@ description: We designed our 20 mg CBD Shower Steamers to give you that spa feel
 keywords: 
   - CBD
   - Lavender Essential Oil
-  - Ylang Ylang Essential Oil
+  - Bergamot Essential Oil
   - sore muscles
   - relief
   - shower
@@ -101,7 +101,7 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 * Baking Soda
 * Epson Salt
 * Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+* Lavender Essential Oil
+* Bergamot Essential Oil
 ### Other Ingredients
 * water
