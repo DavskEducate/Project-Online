@@ -1,5 +1,5 @@
 ---
-title: 20 mg CBD Serenity Shower Steamers Lavender & Ylang Ylang 1 app
+title: 20 mg CBD Serenity Shower Melts Lavender & Ylang Ylang 1 app
 author: belinda.gates@cbd-oil.app
 date: 2019-10-10
 UPC: 
