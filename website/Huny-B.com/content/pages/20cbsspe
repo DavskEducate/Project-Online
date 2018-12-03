@@ -15,7 +15,7 @@ categories:
   - catalog
 
 products: 
-  - Serenity Bath Bombs
+  - Serenity Shower Steamers
 
 c:
   - "01"
@@ -87,13 +87,13 @@ keywords:
 
   
 tags: 
-  - UPC 8-50003-02401-1
-  - GTIN 00850003024011
-  - SKU 50CBSBPE
+  - UPC 8-50003-02413-4
+  - GTIN 00850003024134
+  - SKU 20cbsspe
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-50CBSBPE
+slug: sku-20cbsspe
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -108,62 +108,49 @@ slug: sku-50CBSBPE
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
-<br />50 mg CBD Serenity Bath Bomb 
+<br />20 mg CBD Serenity Shower Melt 
 
 <br />Pepperment & Eucalyptus
 
-<br />Net Wt. 6 oz.
+<br />Net Wt. 2 oz.
 
 <br />1 application
 {{< /alert >}}
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils by the way of aromatherapy and entering your pours through the steam.
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
 type="warning" 
 heading="Direction for Safe Use" %}}
-Drop your bath bomb into a warm bath and enjoy the soak.
+Place your Serenity Shower Steamer in the back of the shower away from the direct spray and enjoy the aromatherapy.
 {{% /w3-alert-icon %}}
 
 {{% w3-alert-icon 
 type="danger" 
 heading="Caution" %}}
-Tub may be slippery when entering and exiting.
+Tub or shower may be slippery when entering and exiting.
 {{% /w3-alert-icon %}}
   
 
 ## Ingredients en-US 
 ### Active Ingredients
 * CBD
-* Citric Acid
 * Baking Soda
-* Epsom Salt
-* Cornstarch
+* Epson Salt
 * Coconut Oil
 * Peppermint Essential Oil
 * Eucalyptus Essential Oil
-
 ### Other Ingredients
-* Polysorbate 80
-* Mica Color
+* water
+
 
 ## price
 
 **USD**
-Retail $12.99
+Retail $5.99
 Shipping 3.95
 
-**UK**
-£9.97
 
-**Canada**
-$16.99
-
-**Australia**
-$18.25
-
-**EU**
-€11.25
