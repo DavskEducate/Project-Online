@@ -112,7 +112,7 @@ slug: sku-50CBbspe
 
 <br />Pepperment & Eucalyptus
 
-<br />Net Wt. 6 oz.
+<br />Net Wt. 8 oz.
 
 <br />1 application
 {{< /alert >}}
