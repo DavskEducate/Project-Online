@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "Buy 50 mg CBD Serenity Bath Bombs Lavender & Rosemary"
+title:       "100 mg CBD Serenity Bath Salts Lavender & YlangYlang"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -11,8 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: We designed our 50 mg CBD Lavender and Rosemary Bath Bombs to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and Rosemary Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
-
+description: We designed our 100 mg CBD Lavender and YlangYlang Bath Salts to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and YlangYlang Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. 
 c:
   - "02"
   
@@ -20,7 +19,7 @@ categories:
   - catalog
 
 products: 
-  - Serenity Bath Bombs
+  - Serenity Bath Salts
 
 concerns:
   - Joint Inflammation
@@ -43,23 +42,23 @@ concerns:
 
 ingredients:
   - CBD
-  - Citric Acid
+  - Dead Sea Salts
   - Baking Soda
   - Epsom Salt
-  - Cornstarch
+  - Himalayan Pink Salt
   - Coconut Oil
   - Lavender Essential Oil
   - Rosemary Essential Oil
 
 keywords: 
   - CBD
-  - Citric Acid
+  - Dead Sea Salt
   - Baking Soda
   - Epsom Salt
-  - Cornstarch
+  - Himalayan Pink Salt
   - Coconut Oil
-  - Peppermint Essential Oil
-  - Eucalyptus Essential Oil
+  - Lavender Essential Oil
+  - YlangYlang Essential Oil
   - Joint Inflammation
   - sleeplessness
   - neuropathy
@@ -88,13 +87,13 @@ keywords:
   - soothe
   
 tags: 
-  - UPC 8-50003-02402-8
-  - GTIN 00850003024028
-  - SKU 50CBSBLR
+  - UPC 8-50003-02421-9
+  - GTIN 00850003024219
+  - SKU 100cbsly
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-50CBSBLR
+slug: sku-100cbsly
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -107,13 +106,13 @@ slug: sku-50CBSBLR
 ![test](/images/gdti/00850003024028_A0N0_en-US_s01_300x300.jpg)
 ## Front Panel
     Huny-B CBD
-    50 mg CBD Serenity Bath Bomb 
-    Lavender & Rosemary
-    Net Wt. 6 oz.
+   100 mg CBD Serenity Bath Salts 
+    Lavender & YlangYlang
+    Net Wt. 8 oz.
     1 application
 ## Information Panels
 ### Intended Use
-    Designed to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and Rosemary Essential Oils.
+    Designed to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and YlangYlang Essential Oils.
 
 ### Direction for Safe Use
     Drop your bathbomb into a warm bath and enjoy the soak.
@@ -124,26 +123,19 @@ slug: sku-50CBSBLR
 ## Ingredients en-US 
 ### Active Ingredients
     CBD
-    Citric Acid
+    Dead Sea Salts
     Baking Soda
     Epsom Salt
-    Cornstarch
+    Himalayan Pink Salt
     Coconut Oil
     Lavender Essential Oil
     Rosemary Essential Oil
 
-### Other Ingredients
-    Polysorbate 80
-    Mica Color
 
 ## price
 
 **USD**
-Retail $12.99
+Retail $25.00
 Shipping 3.95
 
-**UK**
-£9.97
 
-**Canada**
-$16.99
