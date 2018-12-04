@@ -1,6 +1,6 @@
 weight:      1
 
-title:       "20 mg CBD Serenity Shower Melts Lavender & Bergamot"
+title:       "20 mg CBD Serenity Shower Melts Sweet Orange & Ginger"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -10,7 +10,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: We designed our 20 mg CBD Shower Melts to give you that spa feeling and help relax your mind and body by taking advantage of the healing properties of CBD, Lavender and Bergamot Essential Oils by using the steam to help enter your body. Educate Yourself. Learn more now about research regarding active ingredients.
+description: We designed our 20 mg CBD Shower Steamers to give you that spa feeling while helping boost your mood and increase your energy with CBD, Sweet Orange and Ginger Essential Oils by using the steam to help enter your body. Educate Yourself. Learn more now about research regarding active ingredients.
 categories: 
   - catalog
 
@@ -46,8 +46,8 @@ ingredients:
   - Epsom Salt
   - Cornstarch
   - Coconut Oil
-  - Lavemder Essential Oil
-  - Bergamot Essential Oil
+  - Sweet Orange Essential Oil
+  - Ginger Essential Oil
 
 keywords: 
   - CBD
@@ -56,8 +56,8 @@ keywords:
   - Epsom Salt
   - Cornstarch
   - Coconut Oil
-  - Lavender Essential Oil
-  - Bergamot Essential Oil
+  - Sweet Orange Essential Oil
+  - Ginger Essential Oil
   - Joint Inflammation
   - sleeplessness
   - neuropathy
@@ -112,7 +112,7 @@ slug: sku-20cbssog
 
 <br />20 mg CBD Serenity Shower Melt 
 
-<br />Lavender & Bergamot
+<br />Sweet Orange & Ginger
 
 <br />Net Wt. 2 oz.
 
@@ -121,7 +121,7 @@ slug: sku-20cbssog
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your relax your mind and body with the healing properties of CBD, Lavender and Bergamot Essential Oils by the way of aromatherapy and entering your pours through the steam.
+Designed to uplift and energize your mind and body with the healing properties of CBD, Sweet Orange and Ginger Essential Oils by the way of aromatherapy and entering your pours through the steam.
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
@@ -143,8 +143,8 @@ Tub or shower may be slippery when entering and exiting.
 * Baking Soda
 * Epson Salt
 * Coconut Oil
-* Lavender Essential Oil
-* Bergamot Essential Oil
+* Sweet Orange Essential Oil
+* Ginger Essential Oil
 ### Other Ingredients
 * water
 
