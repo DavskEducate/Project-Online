@@ -125,19 +125,20 @@ silky texture.
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+Designed to soothe your sore muscles with the healing properties of CBD and Hemp Oil.
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
 type="warning" 
 heading="Direction for Safe Use" %}}
-Drop your bath bomb into a warm bath and enjoy the soak.
+Recommended for daily all-over use. For best results, apply daily after 
+bathing and handwashing.
 {{% /w3-alert-icon %}}
 
 {{% w3-alert-icon 
 type="danger" 
 heading="Caution" %}}
-Tub may be slippery when entering and exiting.
+For External Use Only
 {{% /w3-alert-icon %}}
   
 
