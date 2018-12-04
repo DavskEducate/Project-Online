@@ -157,14 +157,3 @@ Tub may be slippery when entering and exiting.
 Retail $12.99
 Shipping 3.95
 
-**UK**
-£9.97
-
-**Canada**
-$16.99
-
-**Australia**
-$18.25
-
-**EU**
-€11.25
