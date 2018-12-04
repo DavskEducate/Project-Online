@@ -48,7 +48,7 @@ ingredients:
   - Himalayan Pink Salt
   - Coconut Oil
   - Lavender Essential Oil
-  - Rosemary Essential Oil
+  - YlangYlang Essential Oil
 
 keywords: 
   - CBD
@@ -115,8 +115,7 @@ slug: sku-100cbsly
     Designed to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and YlangYlang Essential Oils.
 
 ### Direction for Safe Use
-    Drop your bathbomb into a warm bath and enjoy the soak.
-
+    Sprinke 1/4 cup or more Serenity Baths Salts into a warm bath and enjoy the soak.
 ### Warnings
     Caution: Tub may be slippery when entering and exiting.
 
