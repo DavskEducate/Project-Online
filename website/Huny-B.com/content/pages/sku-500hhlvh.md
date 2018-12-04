@@ -73,11 +73,11 @@ keywords:
 tags: 
   - UPC 8-50003-02455-6
   - GTIN 00850003024556
-  - SKU 500hhvh
+  - SKU 500hhlvh
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-500hhvh
+slug: sku-500hhlvh
 
 ---
 Huny-B's 500 mg Hemp and Huny Lotion is enriched with CBD derived 
