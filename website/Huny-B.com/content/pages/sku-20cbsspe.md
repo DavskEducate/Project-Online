@@ -1,3 +1,4 @@
+---
 weight:      1
 
 title:       "20 mg CBD Serenity Shower Melts Pepperment & Eucalyptus"
