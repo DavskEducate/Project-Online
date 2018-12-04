@@ -60,7 +60,6 @@ keywords:
   - arthritis
   - stressed out
   - mental exhaustion
-  - congestion
   - depression
   - refreshing
   - restlessness
@@ -71,12 +70,10 @@ keywords:
   - pain
   - spa 
   - relief
-  - bath bomb
   - aromatherapy
   - broad spectrum
   - full spectrum
   - hemp oil
-  - soak
   - relaxing
   - soothe
 
