@@ -54,13 +54,9 @@ concerns:
 
 ingredients:
   - CBD
-  - Citric Acid
-  - Baking Soda
-  - Epsom Salt
-  - Cornstarch
-  - Coconut Oil
+  - Hemp Seed Oil
   - Peppermint Essential Oil
-  - Eucalyptus Essential Oil
+ 
 
 keywords: 
   - CBD
