@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "250 mg CBD Hemp Oil Heat Rub Liniment"
+title:       "250 mg CBD Hemp Oil Heat Salve Liniment"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -98,21 +98,22 @@ keywords:
   - Menthol crystals]
   
 tags: 
-  - UPC 8-50003-02430-1
-  - GTIN 00850003024301
-  - SKU 250hohr
+  - UPC 8-50003-02431-8
+  - GTIN 00850003024318
+  - SKU 250hohs
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-250hohr
+slug: sku-250hohs
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="4C6LQ7MDYQVZS">
+<input type="hidden" name="hosted_button_id" value="4ETSTPQ2962VL">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 
 ![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
@@ -121,7 +122,7 @@ slug: sku-250hohr
 
 <br /> Hemp Oil Liniment
 
-<br />Hemp Oil Heat Liniment Rub
+<br />Hemp Oil Heat Liniment Salve
 
 <br />Net Wt. 1.8 oz.
 
@@ -130,13 +131,13 @@ slug: sku-250hohr
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-We have designer our signature Hemp Oil Heat Rub to penatrate sore muscles and joints by using and aging CBD, derived from the Hemp Plant, Hemp Seed Oil, Arnica, and 20 Essential Oils and Herbs in a certain blend to get the job done!
+We designed our signature Hemp Oil Heat Salve to penatrate sore muscles and joints by using and aging CBD, derived from the Hemp Plant, Hemp Seed Oil, Arnica, and 20 Essential Oils and Herbs in a certain blend to get the job done! This is our same great Liminet Recipe but in a creamy salve texture for easier application. 
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
 type="warning" 
 heading="Direction for Safe Use" %}}
-Apply a generous amount of our Hemp Oil Heat Rub on your sore mucsles and joints. Rub and massage the sore area to get the full affect of the product. For extra heat and greater results massage in your sore muscles and joints after bathing while your pores are still open but your skin is not to hot. 
+Apply a generous amount of our Hemp Oil Heat Salve on your sore mucsles and joints. Rub and massage the sore area to get the full affect of the product. For extra heat and greater results massage in your sore muscles and joints after bathing while your pores are still open but your skin is not to hot. 
 {{% /w3-alert-icon %}}
 
 {{% w3-alert-icon 
