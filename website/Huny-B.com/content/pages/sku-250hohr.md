@@ -118,7 +118,7 @@ slug: sku-250hohr
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
-<br /> 
+<br /> Hemp Oil Liniment
 
 <br />Hemp Oil Heat Liniment Rub
 
