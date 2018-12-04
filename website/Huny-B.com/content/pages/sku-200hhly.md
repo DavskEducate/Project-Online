@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "200 CBD Serenity Hemp & Huny Lotion Cucumber & Mint"
+title:       "200 CBD Serenity Hemp & Huny Lotion Lavender and YlangYlang"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -45,14 +45,14 @@ concerns:
 ingredients:
   - CBD
   - Hemp Seed Oil
-  - Peppermint Essential Oil
- 
+  - Lavender Essential Oil
+  - YlangYlang Essential Oil
 
 keywords: 
   - CBD
   - Hemp Oil
-  - Cucumber Fragrance
-  - Peppemint Essential Oil
+  - Lavender Essential Oil
+  - YlandYlang Essential Oil
   - Joint Inflammation
   - sleeplessness
   - neuropathy
@@ -71,7 +71,7 @@ keywords:
   - pain
   - spa 
   - relief
-  - bath bomb
+  - dry Skin
   - aromatherapy
   - broad spectrum
   - full spectrum
@@ -82,13 +82,13 @@ keywords:
 
   
 tags: 
-  - UPC 8-50003-02453-0
-  - GTIN 00850003024530
-  - SKU 200hhcm
+  - UPC 8-50003-02451-6
+  - GTIN 00850003024516
+  - SKU 200hhly
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-200hhcm
+slug: sku-200hhly
 
 ---
 Huny-B's 200 mg Hemp and Huny Lotion is enriched with CBD derived 
@@ -117,7 +117,7 @@ silky texture.
 
 <br />200 mg Hemp & Huny Lotion 
 
-<br />Cumcuber & Mint
+<br />Lavender & YlangYlang
 
 <br />Net Wt. 8 oz.
 
@@ -149,8 +149,8 @@ Glyceryl  Stearate, Isopropyl Myristate, Caprylic/Capric Glyceride, Stearic Acid
 Shea Butter,  Dimethicone, Phenoxyethanol, Sunflower 
 Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat 
 Milk Extract, Hydroxypropyl Trimonium Honey, 
-Triisopropanolamine, Disodium ,Cucumber & 
-Mint Fragrance 
+Triisopropanolamine, Disodium, Lavender Essential Oil,
+YlangYlang Essential Oil
 
 
 
