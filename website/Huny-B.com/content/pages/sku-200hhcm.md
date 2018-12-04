@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "Buy 50 mg CBD Serenity Bath Bombs Peppermint & Eucalyptus"
+title:       "200 CBD Serenity Hemp & Huny Lotion Cucumber & Mint"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -17,15 +17,16 @@ categories:
   - catalog
 
 products: 
-  - Serenity Bath Bombs
+  - Hemp & Huny Lotion
 
 c:
   - "01"
   
 concerns:
+  - Dry skin
+  - Skin Irratation
   - Joint Inflammation
-  - sleeplessness
-  - neuropathy
+   - neuropathy
   - fibromyalgia
   - arthritis
   - stressed out
@@ -53,13 +54,9 @@ ingredients:
 
 keywords: 
   - CBD
-  - Citric Acid
-  - Baking Soda
-  - Epsom Salt
-  - Cornstarch
-  - Coconut Oil
-  - Peppermint Essential Oil
-  - Eucalyptus Essential Oil
+  - Hemp Oil
+  - Cucumber Fragrance
+  - Peppemint Essential Oil
   - Joint Inflammation
   - sleeplessness
   - neuropathy
@@ -138,14 +135,14 @@ Tub may be slippery when entering and exiting.
 
 ## Ingredients en-US 
 ### Active Ingredients
-* CBD
-* Citric Acid
-* Baking Soda
-* Epsom Salt
-* Cornstarch
-* Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+Water, 100 % Pure Hemp Oil, CBD Derived from the Hemp Plant, 
+Glyceryl  Stearate, Isopropyl Myristate, Caprylic/Capric Glyceride, Stearic Acid, Stearyl
+ Alcohol, Cetearyl Alcohol, Ceteareth 20, Soybean Oil, 
+Shea Butter,  Dimethicone, Phenoxyethanol, Sunflower 
+Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat 
+Milk Extract, Hydroxypropyl Trimonium Honey, 
+Triisopropanolamine, Disodium ,Cucumber & 
+Mint Fragrance 
 
 ### Other Ingredients
 * Polysorbate 80
