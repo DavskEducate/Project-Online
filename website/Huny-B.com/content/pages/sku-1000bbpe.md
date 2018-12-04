@@ -11,7 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
+description: Our Hemp & Huny Body Butter is designed to soothe dry and irritated skin and much more.
 
 categories: 
   - catalog
@@ -103,6 +103,7 @@ Nerve Pain, and Inflammation plus so much more!
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 
 
