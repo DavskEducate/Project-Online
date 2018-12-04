@@ -40,29 +40,29 @@ concerns:
   - spa 
 
 ingredients:
- * CBD
-* Black Pepper Essential Oil
-* Cinnamon Essential Oil
-* Coco Butter
-* Clove Essential Oil
-* Menthol Crystals
-* Ginger Essential Oil
-* White Camphor Essential Oil
-* Cinnimon 
-* Cayenne 
-* Arnica
-* St John's Wart
-* Beeswax
-* Chamomile
-* Lavender
-* Peppermint
-* Wintergreen
-* Clove
-* Olive Oil
-* Hemp Oil
-* Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+- CBD
+- Black Pepper Essential Oil
+- Cinnamon Essential Oil
+- Coco Butter
+- Clove Essential Oil
+- Menthol Crystals
+- Ginger Essential Oil
+- White Camphor Essential Oil
+- Cinnimon 
+- Cayenne 
+- Arnica
+- St John's Wart
+- Beeswax
+- Chamomile
+- Lavender
+- Peppermint
+- Wintergreen
+- Clove
+- Olive Oil
+- Hemp Oil
+- Coconut Oil
+- Peppermint Essential Oil
+- Eucalyptus Essential Oil
 keywords: 
   - Pepperment Essential Oil
   - Eucalyptus Essential Oil
@@ -129,7 +129,7 @@ slug: sku-250hohr
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-We have designer our signature Hemp Oil Heat Rub to penatrate sore muscles and joints by using and aging CBD, derived from the Hemp Plant, Hemp Seed Oil, Arnica, and 20 Essential Oils and Herbs in a certain blend to get the job done!
+We have designed our signature Hemp Oil Heat Rub to penatrate sore muscles and joints by using and aging CBD, derived from the Hemp Plant, Hemp Seed Oil, Arnica, and 20 Essential Oils and Herbs in a certain blend to get the job done!
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
@@ -147,29 +147,29 @@ Wash your hands after applying. Do not take by mouth. Topical medicine is for us
 
 ## Ingredients en-US 
 ### Active Ingredients
-* CBD
-* Black Pepper Essential Oil
-* Cinnamon Essential Oil
-* Coco Butter
-* Clove Essential Oil
-* Menthol Crystals
-* Ginger Essential Oil
-* White Camphor Essential Oil
-* Cinnimon 
-* Cayenne 
-* Arnica
-* St John's Wart
-* Beeswax
-* Chamomile
-* Lavender
-* Peppermint
-* Wintergreen
-* Clove
-* Olive Oil
-* Hemp Oil
-* Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+- CBD
+- Black Pepper Essential Oil
+- Cinnamon Essential Oil
+- Coco Butter
+- Clove Essential Oil
+- Menthol Crystals
+- Ginger Essential Oil
+- White Camphor Essential Oil
+- Cinnimon 
+- Cayenne 
+- Arnica
+- St John's Wart
+- Beeswax
+- Chamomile
+- Lavender
+- Peppermint
+- Wintergreen
+- Clove
+- Olive Oil
+- Hemp Oil
+- Coconut Oil
+- Peppermint Essential Oil
+- Eucalyptus Essential Oil
 
 
 ## price
