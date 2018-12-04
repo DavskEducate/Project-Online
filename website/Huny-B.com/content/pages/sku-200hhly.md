@@ -126,9 +126,7 @@ silky texture.
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
-{{% /w3-notice-icon %}}
-
+Designed to soothe your sore muscles with the healing properties of CBD and Hemp Oil.
 {{% w3-alert-icon 
 type="warning" 
 heading="Direction for Safe Use" %}}
