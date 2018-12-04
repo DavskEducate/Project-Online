@@ -40,29 +40,29 @@ concerns:
   - spa 
 
 ingredients:
- * CBD
-* Black Pepper Essential Oil
-* Cinnamon Essential Oil
-* Coco Butter
-* Clove Essential Oil
-* Menthol Crystals
-* Ginger Essential Oil
-* White Camphor Essential Oil
-* Cinnimon 
-* Cayenne 
-* Arnica
-* St John's Wart
-* Beeswax
-* Chamomile
-* Lavender
-* Peppermint
-* Wintergreen
-* Clove
-* Olive Oil
-* Hemp Oil
-* Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+- CBD
+- Black Pepper Essential Oil
+- Cinnamon Essential Oil
+- Coco Butter
+- Clove Essential Oil
+- Menthol Crystals
+- Ginger Essential Oil
+- White Camphor Essential Oil
+- Cinnimon 
+- Cayenne 
+- Arnica
+- St John's Wart
+- Beeswax
+- Chamomile
+- Lavender
+- Peppermint
+- Wintergreen
+- Clove
+- Olive Oil
+- Hemp Oil
+- Coconut Oil
+- Peppermint Essential Oil
+- Eucalyptus Essential Oil
 
 keywords: 
   - Pepperment Essential Oil
@@ -149,29 +149,29 @@ Wash your hands after applying. Do not take by mouth. Topical medicine is for us
 
 ## Ingredients en-US 
 ### Active Ingredients
-* CBD
-* Black Pepper Essential Oil
-* Cinnamon Essential Oil
-* Coco Butter
-* Clove Essential Oil
-* Menthol Crystals
-* Ginger Essential Oil
-* White Camphor Essential Oil
-* Cinnimon 
-* Cayenne 
-* Arnica
-* St John's Wart
-* Beeswax
-* Chamomile
-* Lavender
-* Peppermint
-* Wintergreen
-* Clove
-* Olive Oil
-* Hemp Oil
-* Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+- CBD
+- Black Pepper Essential Oil
+- Cinnamon Essential Oil
+- Coco Butter
+- Clove Essential Oil
+- Menthol Crystals
+- Ginger Essential Oil
+- White Camphor Essential Oil
+- Cinnimon 
+- Cayenne 
+- Arnica
+- St John's Wart
+- Beeswax
+- Chamomile
+- Lavender
+- Peppermint
+- Wintergreen
+- Clove
+- Olive Oil
+- Hemp Oil
+- Coconut Oil
+- Peppermint Essential Oil
+- Eucalyptus Essential Oil
 
 
 ## price
