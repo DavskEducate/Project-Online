@@ -72,7 +72,7 @@ keywords:
   
 tags: 
   - UPC 8-50003-02462-2
-  - GTIN 00850003024662
+  - GTIN 00850003024622
   - SKU 500bbvh
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
