@@ -36,7 +36,7 @@ concerns:
   - Dry skin
   - Skin Irratation
   - Joint Inflammation
-   - neuropathy
+  - neuropathy
   - fibromyalgia
   - arthritis
   - stressed out
