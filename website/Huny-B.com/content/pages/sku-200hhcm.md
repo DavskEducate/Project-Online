@@ -89,33 +89,33 @@ keywords:
 
   
 tags: 
-  - UPC 8-50003-02401-1
-  - GTIN 00850003024011
-  - SKU 50CBSBPE
+  - UPC 8-50003-02453-0
+  - GTIN 00850003024530
+  - SKU 200hhcm
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-50CBSBPE
+slug: sku-200hhcm
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="ZFLVTFU8D3KYY">
+<input type="hidden" name="hosted_button_id" value="SP7ADXAH2SMM8">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 ![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
-<br />50 mg CBD Serenity Bath Bomb 
+<br />200 mg Hemp & Huny Lotion 
 
-<br />Pepperment & Eucalyptus
+<br />Cumcuber & Mint
 
-<br />Net Wt. 6 oz.
+<br />Net Wt. 8 oz.
 
-<br />1 application
 {{< /alert >}}
     
 ## Information Panels
