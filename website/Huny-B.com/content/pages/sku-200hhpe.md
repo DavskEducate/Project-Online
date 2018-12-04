@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "200 CBD Serenity Hemp & Huny Lotion Cucumber & Mint"
+title:       "200 CBD Serenity Hemp & Huny Lotion Peppermint & Eucalyptus"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -11,7 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: OUr Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
+description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
 categories: 
   - catalog
@@ -46,12 +46,12 @@ ingredients:
   - CBD
   - Hemp Seed Oil
   - Peppermint Essential Oil
- 
+  - Eucalyptus Essential Oil
 
 keywords: 
   - CBD
   - Hemp Oil
-  - Cucumber Fragrance
+  - Eucaltypus
   - Peppemint Essential Oil
   - Joint Inflammation
   - sleeplessness
@@ -82,13 +82,13 @@ keywords:
 
   
 tags: 
-  - UPC 8-50003-02453-0
-  - GTIN 00850003024530
-  - SKU 200hhcm
+  - UPC 8-50003-02450-9
+  - GTIN 00850003024509
+  - SKU 200hhpe
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-200hhcm
+slug: sku-200hhpe
 
 ---
 Huny-B's 200 mg Hemp and Huny Lotion is enriched with CBD derived 
@@ -105,10 +105,11 @@ silky texture.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="SP7ADXAH2SMM8">
+<input type="hidden" name="hosted_button_id" value="H9LS6H3XX3ZEL">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 
 ![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
@@ -117,7 +118,7 @@ silky texture.
 
 <br />200 mg Hemp & Huny Lotion 
 
-<br />Cumcuber & Mint
+<br />Peppermint & Eucalytus
 
 <br />Net Wt. 8 oz.
 
@@ -149,8 +150,8 @@ Glyceryl  Stearate, Isopropyl Myristate, Caprylic/Capric Glyceride, Stearic Acid
 Shea Butter,  Dimethicone, Phenoxyethanol, Sunflower 
 Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat 
 Milk Extract, Hydroxypropyl Trimonium Honey, 
-Triisopropanolamine, Disodium ,Cucumber & 
-Mint Fragrance 
+Triisopropanolamine, Disodium, Peppermint Essential Oil,
+Eucalyptus Essential Oil
 
 
 

@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "200 CBD Serenity Hemp & Huny Lotion Cucumber & Mint"
+title:       "200 CBD Serenity Hemp & Huny Lotion Vanilla and Honey"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -11,7 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: OUr Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
+description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
 categories: 
   - catalog
@@ -45,14 +45,12 @@ concerns:
 ingredients:
   - CBD
   - Hemp Seed Oil
-  - Peppermint Essential Oil
- 
+  - Vanilla Essential Oil
+  
 
 keywords: 
   - CBD
   - Hemp Oil
-  - Cucumber Fragrance
-  - Peppemint Essential Oil
   - Joint Inflammation
   - sleeplessness
   - neuropathy
@@ -82,13 +80,13 @@ keywords:
 
   
 tags: 
-  - UPC 8-50003-02453-0
-  - GTIN 00850003024530
-  - SKU 200hhcm
+  - UPC 8-50003-02452-3
+  - GTIN 00850003024523
+  - SKU 200hhvh
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-200hhcm
+slug: sku-200hhvh
 
 ---
 Huny-B's 200 mg Hemp and Huny Lotion is enriched with CBD derived 
@@ -105,10 +103,12 @@ silky texture.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="SP7ADXAH2SMM8">
+<input type="hidden" name="hosted_button_id" value="YKM9AE7WA25FC">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+
 
 
 ![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
@@ -117,7 +117,7 @@ silky texture.
 
 <br />200 mg Hemp & Huny Lotion 
 
-<br />Cumcuber & Mint
+<br />Vanilla and Honey
 
 <br />Net Wt. 8 oz.
 
@@ -131,13 +131,14 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 {{% w3-alert-icon 
 type="warning" 
 heading="Direction for Safe Use" %}}
-Drop your bath bomb into a warm bath and enjoy the soak.
+Recommended for daily all-over use. For best results, apply daily after 
+bathing and handwashing.
 {{% /w3-alert-icon %}}
 
 {{% w3-alert-icon 
 type="danger" 
 heading="Caution" %}}
-Tub may be slippery when entering and exiting.
+For External Use Only
 {{% /w3-alert-icon %}}
   
 
@@ -149,8 +150,8 @@ Glyceryl  Stearate, Isopropyl Myristate, Caprylic/Capric Glyceride, Stearic Acid
 Shea Butter,  Dimethicone, Phenoxyethanol, Sunflower 
 Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat 
 Milk Extract, Hydroxypropyl Trimonium Honey, 
-Triisopropanolamine, Disodium ,Cucumber & 
-Mint Fragrance 
+Triisopropanolamine, Disodium, Peppermint Essential Oil,
+Eucalyptus Essential Oil
 
 
 
@@ -159,3 +160,4 @@ Mint Fragrance
 **USD**
 Retail $39.00
 Shipping 3.95
+
