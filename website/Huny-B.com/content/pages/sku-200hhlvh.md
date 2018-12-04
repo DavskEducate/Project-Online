@@ -82,11 +82,11 @@ keywords:
 tags: 
   - UPC 8-50003-02452-3
   - GTIN 00850003024523
-  - SKU 200hhvh
+  - SKU 200hhlvh
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-200hhvh
+slug: sku-200hhlvh
 
 ---
 Huny-B's 200 mg Hemp and Huny Lotion is enriched with CBD derived 
