@@ -11,7 +11,17 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: We designed our 50 mg CBD Peppermint and Eucalyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: Huny-B's 200 mg Hemp and Huny Lotion is enriched with CBD derived 
+from the Hemp Plant and 100% Pure  Hemp Seed Oil and blended with natural 
+extracts to provide dramatic skin hydration and nourishment to help improve 
+the health and condition of skin. Hemp Seed Oil is one of nature's richest 
+sources of Essential Fatty Acids and Key Amino Acids containing natural proteins, 
+vitamins, antioxidants, and minerals, vital for healthy skin conditioning. 
+By using CBD derived from the Hemp Plant, Hemp Seed Oil and Essential oils  this 
+Lotion is designed to  prevent and/or relieve: Dry Skin, Itching, Muscle Pain, 
+Muscle Soreness, Muscle Spasms, Joint Pain, Nerve Pain, and Inflammation plus so 
+much more! Our formula absorbs quickly, is not greasy leaving behind a beautiful 
+silky texture.
 
 categories: 
   - catalog
@@ -144,12 +154,10 @@ Milk Extract, Hydroxypropyl Trimonium Honey,
 Triisopropanolamine, Disodium ,Cucumber & 
 Mint Fragrance 
 
-### Other Ingredients
-* Polysorbate 80
-* Mica Color
+
 
 ## price
 
 **USD**
-Retail $12.99
+Retail $39.00
 Shipping 3.95
