@@ -160,5 +160,5 @@ Eucalyptus Essential Oil
 ## price
 
 **USD**
-Retail $79.00
+Retail $69.00
 Shipping 3.95
