@@ -109,7 +109,7 @@ slug: sku-100cbssg
     Designed to reenergize and invigorate by taking advantage of the wonderful energizing and uplifting properties of CBD, Sweet Ornage and Ginger Essential Oils
 
 ### Direction for Safe Use
-    Drop your bathbomb into a warm bath and enjoy the soak.
+    Sprinke 1/4 cup or more Serenity Baths Salts into a warm bath and enjoy the soak.
 
 ### Warnings
     Caution: Tub may be slippery when entering and exiting.
@@ -117,21 +117,18 @@ slug: sku-100cbssg
 ## Ingredients en-US 
 ### Active Ingredients
     CBD
-    Citric Acid
+    Dead Sea Salt
     Baking Soda
     Epson Salt
-    Cornstarch
+    Himalayan Pink Salt
     Coconut Oil
     Sweet Orange Essential Oil
     Ginger Essential Oil
 
-### Other Ingredients
-    Polysorbate 80
-    Mica Color
 
 ## price
 
 **USD**
-Retail $12.99
+Retail $25.00
 Shipping 3.95
 
