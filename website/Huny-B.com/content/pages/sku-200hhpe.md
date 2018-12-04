@@ -150,8 +150,8 @@ Glyceryl  Stearate, Isopropyl Myristate, Caprylic/Capric Glyceride, Stearic Acid
 Shea Butter,  Dimethicone, Phenoxyethanol, Sunflower 
 Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat 
 Milk Extract, Hydroxypropyl Trimonium Honey, 
-Triisopropanolamine, Disodium ,Cucumber & 
-Mint Fragrance 
+Triisopropanolamine, Disodium, Peppermint Essential Oil,
+Eucalyptus Essential Oil
 
 
 
