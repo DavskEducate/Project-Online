@@ -16,8 +16,8 @@ from the Hemp Plant and 100% Pure  Hemp Seed Oil and blended with natural
 extracts to provide dramatic skin hydration and nourishment to help improve 
 the health and condition of skin. Hemp Seed Oil is one of nature's richest 
 sources of Essential Fatty Acids and Key Amino Acids containing natural proteins, 
-vitamins, antioxidants, and minerals, vital for healthy skin conditioning. 
-By using CBD derived from the Hemp Plant, Hemp Seed Oil and Essential oils  this 
+vitamins, antioxidants, and minerals, vital for healthy skin conditioning.
+By using CBD derived from the Hemp Plant, Hemp Seed Oil and Essential oils  this
 Lotion is designed to  prevent and/or relieve: Dry Skin, Itching, Muscle Pain, 
 Muscle Soreness, Muscle Spasms, Joint Pain, Nerve Pain, and Inflammation plus so 
 much more! Our formula absorbs quickly, is not greasy leaving behind a beautiful 
