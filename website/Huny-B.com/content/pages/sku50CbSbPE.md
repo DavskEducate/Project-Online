@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "Buy 50 mg CBD Serenity Bath Bombs Peppermint & Eucalyptus"
+title:       "50 mg CBD Serenity Bath Bombs Peppermint & Eucalyptus"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -11,8 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: We designed our 50 mg CBD Peppermint and Eucalyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
-
+description: We designed our 50 mg CBD Peppermint and Eucalyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. 
 categories: 
   - catalog
 
@@ -98,6 +97,7 @@ resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm
 slug: sku-50CBSBPE
 
 ---
+Our Serenity Bath Bombs have 50 mg’s of CBD and are the bomb above all of Bath Bombs. With the combination of CBD and Essential Oils these Bath Bombs will give you a wonderful soaking experience! Enjoy the "Spa like" experience from you own home!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="ZFLVTFU8D3KYY">
