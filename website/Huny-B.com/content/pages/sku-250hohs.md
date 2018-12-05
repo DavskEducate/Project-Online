@@ -11,7 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: We have designed our 250 mg Hemp Oil Heat Salve to have the same great results as our Rub but milder with a creamer texture. Massage it into your sore muscles and joints.
+description: We have designed our 250 mg Hemp Oil Heat Salve to have the same great results, by using the same great ingredients as our Rub but made it milder with a creamer texture. 
 categories: 
   - catalog
 
