@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "Buy 50 mg CBD Serenity Bath Bombs Lavender & Rosemary"
+title:       "50 mg CBD Serenity Bath Bombs Lavender & Rosemary"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -97,6 +97,7 @@ resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm
 slug: sku-50CBSBLR
 
 ---
+Our Serenity Bath Bombs have 50 mg’s of CBD and are the bomb above all of Bath Bombs. With the combination of CBD and Essential Oils these Bath Bombs will give you a wonderful soaking experience! Enjoy the "Spa like" experience from you own home!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="G95YG5CRS7VHL">
