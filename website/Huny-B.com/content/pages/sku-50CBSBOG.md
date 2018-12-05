@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "Buy 50 mg CBD Serenity Bath Bombs Sweet Orange & Ginger"
+title:       "50 mg CBD Serenity Bath Bombs Sweet Orange & Ginger"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -88,6 +88,7 @@ resImgTeaser: /images/gdti/00850003024035_A0N0_en-US_s01_120x120.jpg
 slug: sku-50CBSBOG
 
 ---
+Our Serenity Bath Bombs have 50 mg’s of CBD and are the bomb above all of Bath Bombs. With the combination of CBD and Essential Oils these Bath Bombs will give you a wonderful soaking experience! Enjoy the "Spa like" experience from you own home!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="GJGU8QE5PG7BC">
