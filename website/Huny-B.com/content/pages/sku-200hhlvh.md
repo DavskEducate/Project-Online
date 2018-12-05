@@ -11,7 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
 
-description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
+description: Hemp and Honey Lotion is packed full of 200 mg’s of CBD! We have also included Hemp Oil, Goat’s Milk and Honey to make this one of the most luxurious lotions you will find. Not only will it moisturize you skin, the CBD and Essential Oils will penetrate you skin to those sore muscles and joints.
 
 categories: 
   - catalog
