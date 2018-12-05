@@ -107,6 +107,8 @@ resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm
 slug: sku-250hohs
 
 ---
+
+For those who prefer mild stimulation and heat we have created the Huny-B CBD salve. As you can see the ingredients ranging from the obvious CBD and Hemp Seed Oil; to soothing  Arnica.  Chamomile and Eucalyptus provides a stark contrast with the Essential Oils such as Black Pepper oil, Cinnamon oil,  Camphor oil , and Menthol Crystals . Of course there are many more essential oils and ingredients besides these, but the point is that this creates a unique feeling that is just as welcome on sore muscles, aches and pains as it is on healthy skin. Follow the links above, or click here (link to all ingredients) to learn more and Educate Yourself ™!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="4ETSTPQ2962VL">
