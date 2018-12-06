@@ -20,7 +20,7 @@ products:
   - Hemp & Huny Lotion
 
 c:
-  - "01"
+  - "53"
   
 concerns:
   - Dry skin
@@ -45,7 +45,7 @@ ingredients:
   - Hemp Seed Oil
   - Peppermint Essential Oil
  
-keywords:[CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, cucumber fragrance, mint fragrance, dry skin, moisturizer, itchy skin, skin condition, lotion]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, cucumber fragrance, mint fragrance, dry skin, moisturizer, itchy skin, skin condition, lotion]
 
 tags:
   - UPC 8-50003-02453-0
