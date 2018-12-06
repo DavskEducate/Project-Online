@@ -17,7 +17,7 @@ categories:
   - catalog
 
 products: 
-  - Hemp & Huny Boddy Butter
+  - Hemp & Huny Body Butter
 
 c:
   - "62"
