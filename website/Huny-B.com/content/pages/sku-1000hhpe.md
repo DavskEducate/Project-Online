@@ -61,7 +61,7 @@ resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm
 slug: sku-1000hhpe
 
 ---
-Huny-B's 1000 mg Hemp and Huny Lotion is enriched with CBD derived 
+Huny-B's extra strength 1000 mg Hemp and Huny Lotion is enriched with CBD derived 
 from the Hemp Plant and 100% Pure  Hemp Seed Oil and blended with natural 
 extracts to provide dramatic skin hydration and nourishment to help improve 
 the health and condition of skin. Hemp Seed Oil is one of nature's richest 
