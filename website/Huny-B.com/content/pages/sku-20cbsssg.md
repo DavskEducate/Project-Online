@@ -50,41 +50,7 @@ ingredients:
   - Sweet Orange Essential Oil
   - Ginger Essential Oil
 
-keywords: 
-  - CBD
-  - Citric Acid
-  - Baking Soda
-  - Epsom Salt
-  - Cornstarch
-  - Coconut Oil
-  - Sweet Orange Essential Oil
-  - Ginger Essential Oil
-  - Joint Inflammation
-  - sleeplessness
-  - neuropathy
-  - fibromyalgia
-  - arthritis
-  - stressed out
-  - mental exhaustion
-  - congestion
-  - depression
-  - refreshing
-  - restlessness
-  - muscle aches
-  - sore muscles
-  - cramps
-  - anti-inflammatory
-  - pain
-  - spa 
-  - relief
-  - bath bomb
-  - aromatherapy
-  - broad spectrum
-  - full spectrum
-  - hemp oil
-  - soak
-  - relaxing
-  - soothe
+keywords: [CBD,Epsom Salt, Coconut Oil,Peppermint Essential Oil,Eucalyptus Essential Oil,Joint Inflammation, sleeplessness,neuropathy,fibromyalgia, arthritis,stressed out,mental exhaustion, congestion,depression, refreshing, restlessness, muscle aches,sore muscles, cramps,anti-inflammatory, pain, spa, relief, bath bomb, aromatherapy, broad spectrum, full spectrum, hemp oil, soak, relaxing, soothe, Sweet Orange essential Oil, Ginger Essential Oil, shower steamer, shower melt]
 
   
 tags: 
