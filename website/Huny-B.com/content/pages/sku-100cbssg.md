@@ -14,7 +14,7 @@ teaserpic: /images/gdti/00850003024035_A0N0_en-US_s01_120x120.jpg
 description: We designed our 100 mg CBD Sweet Orange and Ginger Bath Salts to re-energize and invigorate by taking advantage of the wonderful energizing and uplifting properties of CBD, Sweet Orange and Ginger Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. 
 
 c:
-  - "03"
+  - "22"
   
 categories: 
   - catalog
