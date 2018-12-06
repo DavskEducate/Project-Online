@@ -25,7 +25,7 @@ c:
   
 concerns:
   - Dry skin
-  - Skin Irratation
+  - Skin Irritation
   - Joint Inflammation
   - neuropathy
   - fibromyalgia
