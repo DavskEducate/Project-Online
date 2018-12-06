@@ -20,7 +20,7 @@ products:
   - Hemp & Huny Lotion
 
 c:
-  - "59"
+  - "49"
   
 concerns:
   - Dry skin
