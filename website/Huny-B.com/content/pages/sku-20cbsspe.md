@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "20 mg CBD Serenity Shower Melts Pepperment & Eucalyptus"
+title:       "20 mg CBD Serenity Shower Melts Peppermint & Eucalyptus"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -31,7 +31,6 @@ concerns:
   - mental exhaustion
   - congestion
   - depression
-  - refreshing
   - restlessness
   - muscle aches
   - sore muscles
