@@ -49,42 +49,8 @@ ingredients:
   - Peppermint Essential Oil
   - Eucalyptus Essential Oil
 
-keywords: 
-  - CBD
-  - Himalyan Pink Salt
-  - Baking Soda
-  - Epsom Salt
-  - Dead Sea Salat
-  - Coconut Oil
-  - Peppermint Essential Oil
-  - Eucalyptus Essential Oil
-  - Joint Inflammation
-  - sleeplessness
-  - neuropathy
-  - fibromyalgia
-  - arthritis
-  - stressed out
-  - mental exhaustion
-  - congestion
-  - depression
-  - refreshing
-  - restlessness
-  - muscle aches
-  - sore muscles
-  - cramps
-  - anti-inflammatory
-  - pain
-  - spa 
-  - relief
-  - bath bomb
-  - aromatherapy
-  - broad spectrum
-  - full spectrum
-  - hemp oil
-  - soak
-  - relaxing
-  - soothe
-
+keywords: [CBD,Epsom Salt, Coconut Oil,Peppermint Essential Oil,Eucalyptus Essential Oil,Joint Inflammation, sleeplessness,neuropathy,fibromyalgia, arthritis,stressed out,mental exhaustion, congestion,depression, refreshing, restlessness, muscle aches,sore muscles, cramps,anti-inflammatory, pain, spa, relief, bath bomb, aromatherapy, broad spectrum, full spectrum, hemp oil, soak, relaxing, soothe, Himalyan Pink Salt]
+  
   
 tags: 
   - UPC 8-50003-024202
