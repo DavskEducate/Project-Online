@@ -64,38 +64,7 @@ ingredients:
 - Peppermint Essential Oil
 - Eucalyptus Essential Oil
 
-keywords: 
-  - Pepperment Essential Oil
-  - Eucalyptus Essential Oil
-  - sore muscles
-  - Essential Oil
-  - arnica
-  - St John's Wart
-  - Lavender
-  - Black Pepper Essential Oil
-  - Cinnamon Essential Oil
-  - Clove Essential Oil
-  - White Camphor Essential Oil
-  - Chamomile
-  - Comfrey leaves
-  - wintergreen
-  - Cayenne
-  - Capsaicin
-  - all natural
-  - hemp oil
-  - full spectrum
-  - broad spectrum
-  - organic
-  - herbal remedies
-  - CBD
-  - neuropathy
-  - relaxing
-  - arthris
-  - fibramialoga
-  - stiff muscles
-  - Ginger Essential Oil
-  - pain
-  - Menthol crystals]
+keywords:keywords: [CBD, Pepperment Essential Oil, Eucalyptus Essential Oil, sore muscles, arnica, St John's Wart, Lavender, Black Pepper Essential Oil, Cinnamon Essential Oil, Clove Essential Oil, White Camphor Essential Oil, Chamomile,Comfrey leaves, wintergreen, Cayenne, Capsaicin, all natural, hemp oil, full spectrum,broad spectrum,organic,herbal remedies, neuropathy,relaxing, arthris, fibramialoga, stiff muscles, Ginger Essential Oil,pain, Menthol crystals]
   
 tags: 
   - UPC 8-50003-02431-8
