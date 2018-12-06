@@ -58,7 +58,7 @@ ingredients:
 - Wintergreen
 - Clove
 - Olive Oil
-- Hemp Oil
+- Hemp Seed Oil
 - Coconut Oil
 - Peppermint Essential Oil
 - Eucalyptus Essential Oil
