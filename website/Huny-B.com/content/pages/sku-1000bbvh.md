@@ -20,7 +20,7 @@ products:
   - Hemp & Huny Boddy Butter
 
 c:
-  - "01"
+  - "66"
   
 concerns:
   - Dry skin
