@@ -46,7 +46,7 @@ ingredients:
   - Peppermint Essential Oil
  
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, cucumber fragrance, mint fragrance, dry skin, moristurizer, itchy skin, skin condition, lotion, body butter]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, cucumber fragrance, mint fragrance, dry skin, moisturizer, itchy skin, skin condition, lotion, body butter]
 
   
 tags: 
