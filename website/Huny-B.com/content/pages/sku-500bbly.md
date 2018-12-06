@@ -20,7 +20,7 @@ products:
   - Hemp & Huny Body Butter
 
 c:
-  - "01"
+  - "61"
   
 concerns:
   - Dry skin
@@ -47,7 +47,7 @@ ingredients:
   - Lavender Essential Oil
   - YlangYlang Essential Oil
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang, body butter, lotion, dry skin, skin condition]
 
   
 tags: 
