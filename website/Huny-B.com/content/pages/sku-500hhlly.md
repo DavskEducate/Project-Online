@@ -20,7 +20,7 @@ products:
   - Hemp & Huny Lotion
 
 c:
-  - "01"
+  - "55"
   
 concerns:
   - Dry skin
@@ -47,7 +47,7 @@ ingredients:
   - Lavender Essential Oil
   - YlangYlang Essential Oil
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang, lotion, dry skin, moisturizer, skin condition]
 
 tags: 
   - UPC 8-50003-02455-4
