@@ -51,7 +51,7 @@ keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromy
 
   
 tags: 
-  - UPC 8-50003-0245458-5
+  - UPC 8-50003-02458-5
   - GTIN 00850003024585
   - SKU 1000hhpe
   
