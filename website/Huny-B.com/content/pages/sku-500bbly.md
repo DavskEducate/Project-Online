@@ -24,7 +24,7 @@ c:
   
 concerns:
   - Dry skin
-  - Skin Irratation
+  - Skin Irritation
   - Joint Inflammation
   - neuropathy
   - fibromyalgia
@@ -32,7 +32,6 @@ concerns:
   - stressed out
   - mental exhaustion
   - depression
-  - refreshing
   - restlessness
   - muscle aches
   - sore muscles
