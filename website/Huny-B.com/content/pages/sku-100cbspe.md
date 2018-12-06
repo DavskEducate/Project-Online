@@ -52,7 +52,7 @@ keywords: [CBD,Epsom Salt, Coconut Oil,Peppermint Essential Oil,Eucalyptus Essen
   
   
 tags: 
-  - UPC 8-50003-024202
+  - UPC 8-50003-02420-2
   - GTIN 00850003024202
   - SKU 50Cbbspe
   
