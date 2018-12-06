@@ -19,7 +19,7 @@ products:
   - Hemp Oil Liniments
 
 c:
-  - "01"
+  - "42"
   
 concerns:
   - Joint Inflammation
@@ -64,7 +64,7 @@ ingredients:
 - Peppermint Essential Oil
 - Eucalyptus Essential Oil
 
-keywords: [CBD, Pepperment Essential Oil, Eucalyptus Essential Oil, sore muscles, arnica, St John's Wart, Lavender, Black Pepper Essential Oil, Cinnamon Essential Oil, Clove Essential Oil, White Camphor Essential Oil, Chamomile,Comfrey leaves, wintergreen, Cayenne, Capsaicin, all natural, hemp oil, full spectrum,broad spectrum,organic,herbal remedies, neuropathy,relaxing, arthris, fibramialoga, stiff muscles, Ginger Essential Oil,pain, Menthol crystals]
+keywords: [CBD, Pepperment Essential Oil, Eucalyptus Essential Oil, sore muscles, arnica, St John's Wart, Lavender, Black Pepper Essential Oil, Cinnamon Essential Oil, Clove Essential Oil, White Camphor Essential Oil, Chamomile, Comfrey leaves, wintergreen, Cayenne, Capsaicin, all natural, hemp oil, full spectrum, broad spectrum, organic, herbal remedies, neuropathy, relaxing, arthritis, fibromyalgia, stiff muscles, Ginger Essential Oil, pain, Menthol crystals]
   
 tags: 
   - UPC 8-50003-02442-4
