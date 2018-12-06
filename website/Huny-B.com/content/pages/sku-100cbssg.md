@@ -30,7 +30,7 @@ concerns:
 
 ingredients:
   - CBD
-  - Dead Sea Salt
+  - Dead Sea Salts
   - Himalayan Pink Salt
   - Epsom Salt
   - Cornstarch
