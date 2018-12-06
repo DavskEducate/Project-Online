@@ -38,7 +38,7 @@ ingredients:
   - Sweet Orange Essential Oil
   - Ginger Essential Oil
 
-keywords: [CBD,Epsom Salt, Coconut Oil,Peppermint Essential Oil,Eucalyptus Essential Oil,Joint Inflammation, sleeplessness,neuropathy,fibromyalgia, arthritis,stressed out,mental exhaustion, congestion,depression, refreshing, restlessness, muscle aches,sore muscles, cramps,anti-inflammatory, pain, spa, relief, bath bomb, aromatherapy, broad spectrum, full spectrum, hemp oil, soak, relaxing, soothe, Sweet Orange Essential Oil, Ginger Essential Oil]
+keywords: [CBD, Epsom Salt, Coconut Oil, Peppermint Essential Oil, Eucalyptus Essential Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, congestion, depression, refreshing, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, bath bomb, aromatherapy, broad spectrum, full spectrum, hemp oil, soak, relaxing, soothe, Sweet Orange Essential Oil, Ginger Essential Oil]
   
 tags: 
   - UPC 8-50003-02403-5
