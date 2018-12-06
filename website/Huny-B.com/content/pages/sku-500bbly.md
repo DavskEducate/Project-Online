@@ -47,34 +47,7 @@ ingredients:
   - Lavender Essential Oil
   - YlangYlang Essential Oil
 
-keywords: 
-  - CBD
-  - Hemp Oil
-  - Lavender Essential Oil
-  - YlandYlang Essential Oil
-  - Joint Inflammation
-  - sleeplessness
-  - neuropathy
-  - fibromyalgia
-  - arthritis
-  - stressed out
-  - mental exhaustion
-   - refreshing
-  - restlessness
-  - muscle aches
-  - sore muscles
-  - cramps
-  - anti-inflammatory
-  - pain
-  - spa 
-  - relief
-  - dry Skin
-  - aromatherapy
-  - broad spectrum
-  - full spectrum
-  - hemp oil
-  - relaxing
-  - soothe
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy,fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles,,cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang]
 
   
 tags: 
