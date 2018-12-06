@@ -48,7 +48,7 @@ ingredients:
   - Vanilla Essential Oil
   - Honey
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy,fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles,,cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, vanilla, honey]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, vanilla, honey]
 
   
 

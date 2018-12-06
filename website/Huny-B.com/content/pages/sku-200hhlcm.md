@@ -24,7 +24,7 @@ c:
   
 concerns:
   - Dry skin
-  - Skin Irratation
+  - Skin Irritation
   - Joint Inflammation
   - neuropathy
   - fibromyalgia
@@ -45,11 +45,9 @@ ingredients:
   - Hemp Seed Oil
   - Peppermint Essential Oil
  
+keywords:[CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, cucumber fragrance, mint fragrance, dry skin, moisturizer, itchy skin, skin condition, lotion]
 
-keywords:[CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy,fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles,,cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, cucumber fragrance, mint fragrance, dry skin, moristurizer, itchy skin, skin condition, lotion]
-
-  
-tags: 
+tags:
   - UPC 8-50003-02453-0
   - GTIN 00850003024530
   - SKU 200hhlcm

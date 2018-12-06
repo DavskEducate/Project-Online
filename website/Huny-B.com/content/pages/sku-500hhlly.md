@@ -47,9 +47,8 @@ ingredients:
   - Lavender Essential Oil
   - YlangYlang Essential Oil
 
-keywords:[CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy,fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles,,cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang]
 
-  
 tags: 
   - UPC 8-50003-02455-4
   - GTIN 00850003024554
@@ -122,8 +121,6 @@ Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat
 Milk Extract, Hydroxypropyl Trimonium Honey, 
 Triisopropanolamine, Disodium, Lavender Essential Oil,
 YlangYlang Essential Oil
-
-
 
 ## price
 

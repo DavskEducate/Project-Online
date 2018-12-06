@@ -48,7 +48,7 @@ ingredients:
 - Menthol Crystals
 - Ginger Essential Oil
 - White Camphor Essential Oil
-- Cinnimon 
+- Cinnamon 
 - Cayenne 
 - Arnica
 - St John's Wart
