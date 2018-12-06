@@ -24,12 +24,11 @@ c:
   
 concerns:
   - Dry skin
-  - Skin Irratation
+  - Skin Irritation
   - Joint Inflammation
   - neuropathy
   - fibromyalgia
   - arthritis
-  - refreshing
   - restlessness
   - muscle aches
   - sore muscles
