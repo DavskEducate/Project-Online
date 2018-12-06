@@ -24,15 +24,14 @@ c:
   
 concerns:
   - Dry skin
-  - Skin Irratation
+  - Skin Irritation
   - Joint Inflammation
   - neuropathy
   - fibromyalgia
   - arthritis
   - stressed out
   - mental exhaustion
-  - refreshing
-  - restlessness
+   - restlessness
   - muscle aches
   - sore muscles
   - cramps
