@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "500 CBD Serenity Hemp & Huny Lotion Lavender and YlangYlang"
+title:       "1000 CBD Serenity Hemp & Huny Lotion Lavender and YlangYlang"
 
 date:        2018-11-28T13:11:18-06:00
 
