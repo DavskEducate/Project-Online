@@ -31,7 +31,6 @@ concerns:
   - mental exhaustion
   - congestion
   - depression
-  - refreshing
   - restlessness
   - muscle aches
   - sore muscles
