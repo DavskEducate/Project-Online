@@ -18,7 +18,7 @@ categories:
 products: 
   - Serenity Bath Salts
 c:
-  - "01"
+  - "20"
   
 concerns:
   - Joint Inflammation
