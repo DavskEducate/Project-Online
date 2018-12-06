@@ -19,7 +19,7 @@ products:
   - Hemp Oil Liniments
 
 c:
-  - "01"
+  - "40"
   
 concerns:
   - Joint Inflammation
