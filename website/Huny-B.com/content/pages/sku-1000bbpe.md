@@ -21,7 +21,7 @@ products:
 
 # qrCode
 c:
-  - "01"
+  - "64"
   
 concerns:
   - Dry skin
