@@ -48,37 +48,7 @@ ingredients:
   - Peppermint Essential Oil
   - Eucalyptus Essential Oil
 
-keywords: 
-  - CBD
-  - Hemp Oil
-  - Eucaltypus
-  - Peppemint Essential Oil
-  - Joint Inflammation
-  - sleeplessness
-  - neuropathy
-  - fibromyalgia
-  - arthritis
-  - stressed out
-  - mental exhaustion
-  - congestion
-  - depression
-  - refreshing
-  - restlessness
-  - muscle aches
-  - sore muscles
-  - cramps
-  - anti-inflammatory
-  - pain
-  - spa 
-  - relief
-  - bath bomb
-  - aromatherapy
-  - broad spectrum
-  - full spectrum
-  - hemp oil
-  - soak
-  - relaxing
-  - soothe
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy,fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles,,cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, Peppermint Essential Oil, Eucalyptus Essential oil, dry skin, moristurizer, itchy skin, skin condition]
 
   
 tags: 
