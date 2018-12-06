@@ -50,41 +50,7 @@ ingredients:
   - Lavender Essential Oil
   - YlangYlang Essential Oil
 
-keywords: 
-  - CBD
-  - Dead Sea Salt
-  - Baking Soda
-  - Epsom Salt
-  - Himalayan Pink Salt
-  - Coconut Oil
-  - Lavender Essential Oil
-  - YlangYlang Essential Oil
-  - Joint Inflammation
-  - sleeplessness
-  - neuropathy
-  - fibromyalgia
-  - arthritis
-  - stressed out
-  - mental exhaustion
-  - congestion
-  - depression
-  - refreshing
-  - restlessness
-  - muscle aches
-  - sore muscles
-  - cramps
-  - anti-inflammatory
-  - pain
-  - spa 
-  - relief
-  - bath bomb
-  - aromatherapy
-  - broad spectrum
-  - full spectrum
-  - hemp oil
-  - soak
-  - relaxing
-  - soothe
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy,fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles,,cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang]
   
 tags: 
   - UPC 8-50003-02421-9
