@@ -34,7 +34,6 @@ concerns:
   - mental exhaustion
   - congestion
   - depression
-  - refreshing
   - restlessness
   - muscle aches
   - sore muscles
@@ -49,7 +48,7 @@ ingredients:
   - Peppermint Essential Oil
   - Eucalyptus Essential Oil
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, Peppermint Essential Oil, Eucalyptus Essential oil, dry skin, moisturizer, itchy skin, skin condition, body butter]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, Peppermint Essential Oil, Eucalyptus Essential oil, dry skin, moisturizer, itchy skin, skin condition, body butter, skin irritation]
 
   
 tags: 
@@ -62,13 +61,13 @@ resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm
 slug: sku-1000bbpe
 
 ---
-Our luxurious 1000 mg  Hemp & Huny Body Butters lets you 
+Our luxurious extra strength 1000 mg  Hemp & Huny Body Butters lets you 
 indulge in an intensive, creamy all over body moisturizer.  Its
 rich thick, buttery formula melts into your skin and absorbs easily without
 feeling greasy. Leaves the skin feeling softer and smoother to the touch, with a 
 wonderful delicate scent.  Infused with CBD, Hemp Seed Oil, and Essential Oils 
 our Body Butter is designed to penetrate your muscles to help with: Dry Skin, 
-Itching, Muscle Pain, Muscle Soreness, Muscle Spasms,  Joint Pain,
+Itching, Muscle Pain, Muscle Soreness, Muscle Spasms, Joint Pain,
 Nerve Pain, and Inflammation plus so much more! 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
