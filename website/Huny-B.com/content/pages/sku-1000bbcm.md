@@ -20,7 +20,7 @@ products:
   - Hemp & Huny Body Butter
 
 c:
-  - "01"
+  - "67"
   
 concerns:
   - Dry skin
