@@ -46,7 +46,7 @@ ingredients:
   - Epsom Salt
   - Cornstarch
   - Coconut Oil
-  - Lavemder Essential Oil
+  - Lavender Essential Oil
   - Bergamot Essential Oil
 
 keywords: [CBD,Epsom Salt, Coconut Oil,Peppermint Essential Oil,Eucalyptus Essential Oil,Joint Inflammation, sleeplessness,neuropathy,fibromyalgia, arthritis,stressed out,mental exhaustion, congestion,depression, refreshing, restlessness, muscle aches,sore muscles, cramps,anti-inflammatory, pain, spa, relief, bath bomb, aromatherapy, broad spectrum, full spectrum, hemp oil, soak, relaxing, soothe, lavender, bergamot, steam, shower]
