@@ -20,7 +20,7 @@ products:
   - Hemp & Huny Lotion
 
 c:
-  - "55"
+  - "56"
   
 concerns:
   - Dry skin
@@ -48,8 +48,8 @@ keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy,fibromya
 
   
 tags: 
-  - UPC 8-50003-02455-6
-  - GTIN 00850003024556
+  - UPC 8-50003-02456-1
+  - GTIN 00850003024561
   - SKU 500hhlvh
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
