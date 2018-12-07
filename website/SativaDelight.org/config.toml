@@ -1,3 +1,6 @@
-baseURL = https://SativaDelight.org/
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = SativaDelight.org
+title = "Awesome Lighting Inc."
+theme = "hugo-shopping-product-catalogue-simple"
+[Params]
+description = ""
