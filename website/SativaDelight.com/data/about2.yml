@@ -6,12 +6,9 @@ description2 :
 aboutItem : 
   - icon : fa fa-smile-o
     title : Power to the People
-<<<<<<< HEAD
-    content : With our line of products, we are giving you the power to be healthy 
-=======
+    content : With our line of products, we are giving you the power to be healthy. 
     content : With our line of products, we are giving you the power to be healthy.
->>>>>>> ae12eb3701debbdb94b3a494283e173ffeb12509
-    
+
   - icon : tf-hotairballoon
     title : Live a Healthy Life-Style
-    content : We give you a multiple lines of products that are all %100 healthy. Every ingrediant is carefully selected for specific purpose.
+    content : We give you a multiple lines of products that are all 100% healthy. Every ingrediant is carefully selected for specific purpose.
