@@ -1,0 +1,10 @@
+weight:      6
+name:        "Individual Product Testers"
+icon:        "fa fa-user"
+animated:    "slideInRight"
+url:         pages/front/features/06
+description: |
+  * We do not do clinical trials of our products.
+  * We only use natural ingredients that have a proven history of safety.
+  * We do use Individual Product Testers to evaluate new products before going to market or when making changes to the formulation in response to users feedback.
+  * Your opinion is important to us.

@@ -1,0 +1,10 @@
+weight:      2
+name:        "Reports"
+icon:        "fas fa-print"
+animated:    "rollIn"
+url:         pages/front/features/02
+description: |
+  Reseach reports by
+  * Health Concerns
+  * Ingredients
+  find related products containing those ingredients.
