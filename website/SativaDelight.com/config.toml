@@ -1,4 +1,4 @@
-baseURL = "http://SativaDelight.com/"
+baseURL = "https://SativaDelight.com/"
 languageCode = "en-us"
 title = "SativaDelight.com"
 theme = "meghna-hugo"
