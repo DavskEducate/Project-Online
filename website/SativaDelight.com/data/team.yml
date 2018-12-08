@@ -2,40 +2,30 @@ enable : true
 heading : Our
 headingSpan : Team
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
+  - image : "https://res.cloudinary.com/elijahskinner/image/upload/v1544309724/Huny-b/pexels-belinda.jpg"
+    name : Belinda Gates
     designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : 
     socialIcon :
       - icon : tf-ion-social-facebook
       - icon : tf-ion-social-twitter
       - icon : tf-ion-social-linkedin
       - icon : tf-ion-social-dribbble-outline
       
-  - image : images/team/team-2.jpg
-    name : Frank Miller
+  - image : "https://res.cloudinary.com/elijahskinner/image/upload/v1544310105/Huny-b/Das.png"
+    name : David Skinner
     designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : 
     socialIcon :
       - icon : tf-ion-social-facebook
       - icon : tf-ion-social-twitter
       - icon : tf-ion-social-linkedin
       - icon : tf-ion-social-dribbble-outline
       
-  - image : images/team/team-3.jpg
-    name : Michael Jonson
+  - image : "https://res.cloudinary.com/elijahskinner/image/upload/v1544309605/Huny-b/Elijah.webp"
+    name : Elijah Skinner
     designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-      - icon : tf-ion-social-twitter
-      - icon : tf-ion-social-linkedin
-      - icon : tf-ion-social-dribbble-outline
-      
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : 
     socialIcon :
       - icon : tf-ion-social-facebook
       - icon : tf-ion-social-twitter

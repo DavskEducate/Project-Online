@@ -2,19 +2,19 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-mapLatitude : 51.5223477
-mapLongitude: -0.1622023
+content : Feel free to reach out to us for more information!
+mapLatitude : 34.1341975
+mapLongitude: -93.1108019
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : "Arkadelphia, Arkansas, US"
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
+    info : "Phone: +N/A"
     
   - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+    info : "Fax: +N/A"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "david@cbd-oil.app"
     
