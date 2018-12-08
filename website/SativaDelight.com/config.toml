@@ -43,15 +43,15 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Home"
-logo = "static/images/logo.jpg"
+logo = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
 gmapAPI = ""
 
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/green.jpg"
+    bgImage = "https://res.cloudinary.com/elijahskinner/image/upload/v1541740268/Huny-b/green.png"
     icon = "tf-ion-play"
-    heading = "Experience the new reality"
+    heading = "Site Under Construction"
     content= "Live your life pain free!"
     btn = true
     btnText="Explore Us"
@@ -67,26 +67,26 @@ gmapAPI = ""
     # counter
     [params.counter]
     enable = true
-    bgImage = "images/backgrounds/bg-1.jpg"
+    bgImage = "https://res.cloudinary.com/elijahskinner/image/upload/v1541740494/Huny-b/orange.png"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
+        title = "Happy Customers"
         icon = "tf-ion-android-happy"
-        count = "320"
+        count = "100%"
 
         [[params.counter.counterItem]]
-        title = "Types of Bath Bombs"
-        icon = "tf-ion-archive"
-        count = "565"
+        title = "Different Types of Products"
+        pre = "<i class=\"fa fa-flask\"></i>"
+        count = "27"
 
         [[params.counter.counterItem]]
         title = "Positive feedback"
         icon = "tf-ion-thumbsup"
         count = "95"
 
-        [[params.counter.counterItem]]
-        title = "Cups of Coffee"
-        icon = "tf-ion-coffee"
-        count = "2500"
+        #[[params.counter.counterItem]]
+        #title = "Cups of Coffee"
+        #icon = "tf-ion-coffee"
+        #count = "2500"
     
     # footer
     [params.footer]
