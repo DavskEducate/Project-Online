@@ -1,7 +1,7 @@
 ---
 weight:      1
 
-title:       "100 mg CBD Serenity Bath Salts Sweet Orange & Ginger"
+title:       "100 mg CBD Serenity Bath Salts Sweet Orange & Rosemary"
 
 date:        2018-11-28T13:11:18-06:00
 
@@ -11,7 +11,7 @@ icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgix
 
 teaserpic: /images/gdti/00850003024035_A0N0_en-US_s01_120x120.jpg
 
-description: We designed our 100 mg CBD Sweet Orange and Ginger Bath Salts to re-energize and invigorate by taking advantage of the wonderful energizing and uplifting properties of CBD, Sweet Orange and Ginger Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. 
+description: We designed our 100 mg CBD Sweet Orange and Rosemary Bath Salts to re-energize and invigorate by taking advantage of the wonderful energizing and uplifting properties of CBD, Sweet Orange and Ginger Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. 
 
 c:
   - "22"
@@ -36,9 +36,9 @@ ingredients:
   - Cornstarch
   - Coconut Oil
   - Sweet Orange Essential Oil
-  - Ginger Essential Oil
+  - Rosemary Essential Oil
 
-keywords: [CBD,Epsom Salt, Coconut Oil,Peppermint Essential Oil,Eucalyptus Essential Oil,Joint Inflammation, sleeplessness,neuropathy,fibromyalgia, arthritis,stressed out,mental exhaustion, congestion,depression, refreshing, restlessness, muscle aches,sore muscles, cramps,anti-inflammatory, pain, spa, relief, bath bomb, aromatherapy, broad spectrum, full spectrum, hemp oil, soak, relaxing, soothe, Sweet Orange Essentail Oil, Ginger Essential Oil, Himalayan Pink Salt, Dead Sea Salt]
+keywords: [CBD,Epsom Salt, Coconut Oil,Peppermint Essential Oil,Eucalyptus Essential Oil,Joint Inflammation, sleeplessness,neuropathy,fibromyalgia, arthritis,stressed out,mental exhaustion, congestion,depression, refreshing, restlessness, muscle aches,sore muscles, cramps,anti-inflammatory, pain, spa, relief, bath bomb, aromatherapy, broad spectrum, full spectrum, hemp oil, soak, relaxing, soothe, Sweet Orange Essentail Oil, Rosemary Essential Oil, Himalayan Pink Salt, Dead Sea Salt]
   
 tags: 
   - UPC 8-50003-02422-6
