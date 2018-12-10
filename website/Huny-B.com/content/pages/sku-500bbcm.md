@@ -7,11 +7,11 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https://Huny-B.info/images/x32/00850003024639_A1N1_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https://Huny-B.info/images/x64/00850003024639_A1N1_en-US_s01.png
 
 description: Our Hemp & Huny Body Butter is designed to soothe dry and irritated skin and much more.
 
@@ -56,7 +56,7 @@ tags:
   - GTIN 00850003024639
   - SKU 500bbcm
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
+resImgTeaser: https://Huny-B.info/images/x64/00850003024639_A1N1_en-US_s01.png
 
 slug: sku-500bbcm
 
@@ -79,7 +79,7 @@ Nerve Pain, and Inflammation plus so much more!
 
 
 
-![test](https://Huny-b.info/images/gdti/00850003024639_A0N1_en-US_S01_600x600.jpg)
+![test](https://Huny-B.info/images/x600/00850003024639_A1N1_en-US_s01.jpg)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
