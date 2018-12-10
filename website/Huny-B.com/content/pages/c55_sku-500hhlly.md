@@ -7,13 +7,15 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https://Huny-B.info/images/x32/00850003024486_A0NF_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https://Huny-B.info/images/x300/00850003024486_A0NF_en-US_s01.jpg
 
-description: OUr Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
+resImgTeaser: https://Huny-B.info/images/x64/00850003024486_A0NF_en-US_s01.png
+
+description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
 categories: 
   - catalog
@@ -55,9 +57,7 @@ tags:
   - GTIN 00850003024554
   - SKU 500hhlly
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
-
-slug: sku-500hhlly
+slug: 850003024554
 
 ---
 Huny-B's 500 mg Hemp and Huny Lotion is enriched with CBD derived 
@@ -79,11 +79,8 @@ silky texture.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+![test](https://Huny-B.info/images/x600/00850003024486_A0NF_en-US_s01.jpg)
 
-
-
-
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 

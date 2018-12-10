@@ -54,11 +54,11 @@ keywords: [CBD,Epsom Salt, Coconut Oil,Peppermint Essential Oil,Eucalyptus Essen
 tags: 
   - UPC 8-50003-02421-9
   - GTIN 00850003024219
-  - SKU 100cbsly
+  - SKU 100CBSLY
   
 resImgTeaser: https://Huny-B.info/images/x64/00850003024202_A3N1_en-US_s01.png
 
-slug: sku-100cbsly
+slug: 850003024219
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -69,6 +69,7 @@ slug: sku-100cbsly
 </form>
 
 ![test](https://Huny-B.info/images/x600/00850003024202_A3N1_en-US_s01.jpg)
+
 ## Front Panel
     Huny-B CBD
    100 mg CBD Serenity Bath Salts 

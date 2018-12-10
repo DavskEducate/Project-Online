@@ -1,19 +1,21 @@
 ---
 weight:      1
 
-title:       "1000 CBD Serenity Hemp & Huny Body Butter Vanilla and Honey"
+title:       "500 CBD Serenity Hemp & Huny Body Butter Vanilla and Honey"
 
 date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https:/Huny-B.info/images/x32/00850003024608_A0NF_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https:/Huny-B.info/images/x300/00850003024608_A0NF_en-US_s01.png
 
-description: Our Hemp & Huny Body Butter is designed to soothe dry and irritated skin and much more.
+resImgTeaser: https:/Huny-B.info/images/x64/00850003024608_A0NF_en-US_s01.png
+
+description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
 categories: 
   - catalog
@@ -22,7 +24,7 @@ products:
   - Hemp & Huny Body Butter
 
 c:
-  - "66"
+  - "62"
   
 concerns:
   - Dry skin
@@ -45,20 +47,20 @@ ingredients:
   - Vanilla Essential Oil
   - Honey
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, vanilla, honey, body butter, moisturizer]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, vanilla, honey, body butter, lotion, moisturizer, dry skin, skin condition]
 
   
 tags: 
-  - UPC 8-50003-02466-0
-  - GTIN 00850003024660
-  - SKU 1000bbvh
+  - UPC 8-50003-02462-2
+  - GTIN 00850003024622
+  - SKU 500bbvh
   
 resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
 
-slug: sku-1000bbvh
+slug: 850003024622
 
 ---
-Our luxurious 1000 mg  Hemp & Huny Body Butters lets you 
+Our luxurious 500 mg  Hemp & Huny Body Butters lets you 
 indulge in an intensive, creamy all over body moisturizer.  Its
 rich thick, buttery formula melts into your skin and absorbs easily without
 feeling greasy. Leaves the skin feeling softer and smoother to the touch, with a 
@@ -69,22 +71,17 @@ Nerve Pain, and Inflammation plus so much more!
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="ZQHLQEPP5V8W6">
+<input type="hidden" name="hosted_button_id" value="8NM2MQBEFCD6Y">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+![test](https://Huny-B.info/images/x600/00850003024608_A0NF_en-US_s01.jpg)
 
-
-
-
-
-
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
-<br />1000 mg Hemp & Huny Body Butter 
+<br />500 mg Hemp & Huny Body Butter 
 
 <br />Vanilla and Honey
 
@@ -127,5 +124,6 @@ Triisopropanolamine, Disodium, Vanilla and Honey fragrance oil
 ## price
 
 **USD**
-Retail $119.00
+Retail $79.00
 Shipping 3.95
+

@@ -1,17 +1,19 @@
 ---
 weight:      1
 
-title:       "1000 CBD Serenity Hemp & Huny Lotion Vanilla and Honey"
+title:       "500 CBD Serenity Hemp & Huny Lotion Vanilla and Honey"
 
 date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https://Huny-B.info/images/x32/00850003024486_A0NF_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https://Huny-B.info/images/x300/00850003024486_A0NF_en-US_s01.jpg
+
+resImgTeaser: https://Huny-B.info/images/x64/00850003024486_A0NF_en-US_s01.png
 
 description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
@@ -22,7 +24,7 @@ products:
   - Hemp & Huny Lotion
 
 c:
-  - "49"
+  - "56"
   
 concerns:
   - Dry skin
@@ -45,22 +47,18 @@ ingredients:
   - Vanilla Essential Oil
   - Honey
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, vanilla, honey,lotion, skin condition, dry skin]
-
-  
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy,fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, vanilla, honey, lotion, dry skin, moisturizer, skin condition]
 
   
 tags: 
-  - UPC 8-50003-024549-3
-  - GTIN 008500030245493
-  - SKU 1000hhvh
+  - UPC 8-50003-02456-1
+  - GTIN 00850003024561
+  - SKU 500hhlvh
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
-
-slug: sku-1000hhvh
+slug: 850003024561
 
 ---
-Huny-B's 1000 mg Hemp and Huny Lotion is enriched with CBD derived 
+Huny-B's 500 mg Hemp and Huny Lotion is enriched with CBD derived 
 from the Hemp Plant and 100% Pure  Hemp Seed Oil and blended with natural 
 extracts to provide dramatic skin hydration and nourishment to help improve 
 the health and condition of skin. Hemp Seed Oil is one of nature's richest 
@@ -74,18 +72,20 @@ silky texture.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="C9WBXX777MKU8">
+<input type="hidden" name="hosted_button_id" value="XY23NXRYSQJHE">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
 
 
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
+
+
+![test](https:/Huny-B.info/images/x600/00850003024486_A0NF_en-US_s01.jpg)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
-<br />1000 mg Hemp & Huny Lotion 
+<br />500 mg Hemp & Huny Lotion 
 
 <br />Vanilla and Honey
 
@@ -126,5 +126,6 @@ Triisopropanolamine, Disodium, Vanilla and Honey fragrance oil
 ## price
 
 **USD**
-Retail $99.00
+Retail $69.00
 Shipping 3.95
+

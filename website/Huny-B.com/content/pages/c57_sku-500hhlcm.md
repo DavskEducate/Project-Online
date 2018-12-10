@@ -1,17 +1,19 @@
 ---
 weight:      1
 
-title:       "500 CBD Serenity Hemp & Huny Lotion Peppermint & Eucalyptus"
+title:       "500 CBD Serenity Hemp & Huny Lotion Cucumber & Mint"
 
 date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https://Huny-B.info/images/x32/00850003024486_A0NF_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https://Huny-B.info/images/x300/00850003024486_A0NF_en-US_s01.jpg
+
+resImgTeaser: https://Huny-B.info/images/x64/00850003024486_A0NF_en-US_s01.png
 
 description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
@@ -22,7 +24,7 @@ products:
   - Hemp & Huny Lotion
 
 c:
-  - "54"
+  - "57"
   
 concerns:
   - Dry skin
@@ -33,8 +35,6 @@ concerns:
   - arthritis
   - stressed out
   - mental exhaustion
-  - congestion
-  - depression
   - restlessness
   - muscle aches
   - sore muscles
@@ -47,20 +47,17 @@ ingredients:
   - CBD
   - Hemp Seed Oil
   - Peppermint Essential Oil
-  - Eucalyptus Essential Oil
+ 
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, Peppermint Essential Oil, Eucalyptus Essential oil, dry skin, moisturizer, itchy skin, skin condition, lotion, body butter]
-  
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, cucumber fragrance, mint fragrance, dry skin, moisturizer, itchy skin, skin condition, lotion]
 
   
 tags: 
-  - UPC 8-50003-02454-7
-  - GTIN 00850003024547
-  - SKU 500hhlpe
+  - UPC 8-50003-02457-8
+  - GTIN 00850003024578
+  - SKU 500hhlcm
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
-
-slug: sku-500hhlpe
+slug: 850003024578
 
 ---
 Huny-B's 500 mg Hemp and Huny Lotion is enriched with CBD derived 
@@ -77,20 +74,21 @@ silky texture.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="KEZ3DBLEWZ8H6">
+<input type="hidden" name="hosted_button_id" value="4RSLJWWMESR62">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
 
 
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
+![test](https://Huny-B.info/images/x600/00850003024486_A0NF_en-US_s01.jpg)
+
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
 <br />500 mg Hemp & Huny Lotion 
 
-<br />Peppermint & Eucalytus
+<br />Cumcuber & Mint
 
 <br />Net Wt. 8 oz.
 
@@ -98,7 +96,7 @@ silky texture.
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+Designed to soothe your sore muscles with the healing properties of CBD and Hemp Oil.
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
@@ -111,7 +109,7 @@ bathing and handwashing.
 {{% w3-alert-icon 
 type="danger" 
 heading="Caution" %}}
-External use only.
+For External Use Only
 {{% /w3-alert-icon %}}
   
 
@@ -123,8 +121,8 @@ Glyceryl  Stearate, Isopropyl Myristate, Caprylic/Capric Glyceride, Stearic Acid
 Shea Butter,  Dimethicone, Phenoxyethanol, Sunflower 
 Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat 
 Milk Extract, Hydroxypropyl Trimonium Honey, 
-Triisopropanolamine, Disodium, Peppermint Essential Oil,
-Eucalyptus Essential Oil
+Triisopropanolamine, Disodium ,Cucumber & 
+Mint Fragrance 
 
 
 
@@ -133,3 +131,4 @@ Eucalyptus Essential Oil
 **USD**
 Retail $69.00
 Shipping 3.95
+

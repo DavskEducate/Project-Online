@@ -58,7 +58,7 @@ tags:
   
 resImgTeaser: https://Huny-B.info/images/x32/00850003024202_A1N1_en-US_s01.png
 
-slug: sku-50CBbspe
+slug: 850003024202
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -68,8 +68,8 @@ slug: sku-50CBbspe
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-
 ![test](https://Huny-B.info/images/x600/00850003024202_A1N1_en-US_s01.jpg)
+
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 

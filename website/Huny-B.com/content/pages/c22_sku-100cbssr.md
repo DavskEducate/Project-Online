@@ -7,7 +7,7 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
 icon: https://Huny-B.info/images/x32/00850003024226_A0N0_en-US_s01.png
 
@@ -49,7 +49,7 @@ tags:
   
 resImgTeaser: /images/gdti/00850003024035_A0N0_en-US_s01_120x120.jpg
 
-slug: sku-100cbssr
+slug: 850003024226
 
 ---
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -61,7 +61,7 @@ slug: sku-100cbssr
 
 
 
-![test](/images/gdti/00850003024035_A0N0_en-US_s01_240x240.jpg)
+![test](https://Huny-B.info/images/x600/00850003024035_A0N0_en-US_s01.jpg)
 ## Front Panel
     Huny-B CBD
     100 mg CBD Serenity Bath Salts 

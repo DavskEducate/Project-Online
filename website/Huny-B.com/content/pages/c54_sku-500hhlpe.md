@@ -1,20 +1,21 @@
 ---
 weight:      1
 
-title:       "200 CBD Serenity Hemp & Huny Lotion Vanilla and Honey"
+title:       "500 CBD Serenity Hemp & Huny Lotion Peppermint & Eucalyptus"
 
 date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
+icon: https://Huny-B.info/images/x32/00850003024486_A0NF_en-US_s01.png
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+teaserpic: https://Huny-B.info/images/x300/00850003024486_A0NF_en-US_s01.jpg
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+resImgTeaser: https://Huny-B.info/images/x64/00850003024486_A0NF_en-US_s01.png
 
-description: Hemp and Honey Lotion is packed full of 200 mg’s of CBD! We have also included Hemp Oil, Goat’s Milk and Honey to make this one of the most luxurious lotions you will find. Not only will it moisturize you skin, the CBD and Essential Oils will penetrate you skin to those sore muscles and joints.
+description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
 categories: 
   - catalog
@@ -23,7 +24,7 @@ products:
   - Hemp & Huny Lotion
 
 c:
-  - "52"
+  - "54"
   
 concerns:
   - Dry skin
@@ -47,25 +48,20 @@ concerns:
 ingredients:
   - CBD
   - Hemp Seed Oil
-  - Vanilla Essential Oil
-  - Honey
+  - Peppermint Essential Oil
+  - Eucalyptus Essential Oil
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, vanilla, honey, lotion, dry skin, skin condition, moisturizer]
-
-  
-
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, Peppermint Essential Oil, Eucalyptus Essential oil, dry skin, moisturizer, itchy skin, skin condition, lotion, body butter]
   
 tags: 
-  - UPC 8-50003-02452-3
-  - GTIN 00850003024523
-  - SKU 200hhlvh
+  - UPC 8-50003-02454-7
+  - GTIN 00850003024547
+  - SKU 500hhlpe
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
-
-slug: sku-200hhlvh
+slug: 850003024547
 
 ---
-Huny-B's 200 mg Hemp and Huny Lotion is enriched with CBD derived 
+Huny-B's 500 mg Hemp and Huny Lotion is enriched with CBD derived 
 from the Hemp Plant and 100% Pure  Hemp Seed Oil and blended with natural 
 extracts to provide dramatic skin hydration and nourishment to help improve 
 the health and condition of skin. Hemp Seed Oil is one of nature's richest 
@@ -79,21 +75,19 @@ silky texture.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="YKM9AE7WA25FC">
+<input type="hidden" name="hosted_button_id" value="KEZ3DBLEWZ8H6">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+![test](https://Huny-B.info/images/x600/00850003024486_A0NF_en-US_s01.jpg)
 
-
-
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
-<br />200 mg Hemp & Huny Lotion 
+<br />500 mg Hemp & Huny Lotion 
 
-<br />Vanilla and Honey
+<br />Peppermint & Eucalytus
 
 <br />Net Wt. 8 oz.
 
@@ -101,7 +95,7 @@ silky texture.
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD and Hemp Oil.
+Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
@@ -114,7 +108,7 @@ bathing and handwashing.
 {{% w3-alert-icon 
 type="danger" 
 heading="Caution" %}}
-For External Use Only
+External use only.
 {{% /w3-alert-icon %}}
   
 
@@ -134,6 +128,5 @@ Eucalyptus Essential Oil
 ## price
 
 **USD**
-Retail $39.00
+Retail $69.00
 Shipping 3.95
-

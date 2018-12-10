@@ -1,17 +1,19 @@
 ---
 weight:      1
 
-title:       "200 CBD Serenity Hemp & Huny Lotion Lavender and YlangYlang"
+title:       "1000 CBD Serenity Hemp & Huny Lotion Peppermint & Eucalyptus"
 
 date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https:/Huny-B.info/images/x32/00850003024608_A0NF_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https:/Huny-B.info/images/x300/00850003024608_A0NF_en-US_s01.png
+
+resImgTeaser: https:/Huny-B.info/images/x64/00850003024608_A0NF_en-US_s01.png
 
 description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
@@ -22,7 +24,7 @@ products:
   - Hemp & Huny Lotion
 
 c:
-  - "51"
+  - "58"
   
 concerns:
   - Dry skin
@@ -46,24 +48,21 @@ concerns:
 ingredients:
   - CBD
   - Hemp Seed Oil
-  - Lavender Essential Oil
-  - YlangYlang Essential Oil
+  - Peppermint Essential Oil
+  - Eucalyptus Essential Oil
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, lavender, ylangylang, skin condition, lotion]
-
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, Peppermint Essential Oil, Eucalyptus Essential oil, dry skin, moisturizer, itchy skin, skin condition]
 
   
 tags: 
-  - UPC 8-50003-02451-6
-  - GTIN 00850003024516
-  - SKU 200hhlly
+  - UPC 8-50003-02458-5
+  - GTIN 00850003024585
+  - SKU 1000hhpe
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
-
-slug: sku-200hhlly
+slug: 850003024585
 
 ---
-Huny-B's 200 mg Hemp and Huny Lotion is enriched with CBD derived 
+Huny-B's extra strength 1000 mg Hemp and Huny Lotion is enriched with CBD derived 
 from the Hemp Plant and 100% Pure  Hemp Seed Oil and blended with natural 
 extracts to provide dramatic skin hydration and nourishment to help improve 
 the health and condition of skin. Hemp Seed Oil is one of nature's richest 
@@ -77,20 +76,19 @@ silky texture.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="VKJAYE8MWTT4Y">
+<input type="hidden" name="hosted_button_id" value="ASPXDP4YKT7LW">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+![test](https://Huny-B.info/images/x600/00850003024608_A0NF_en-US_s01.jpg)
 
-
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
-<br />200 mg Hemp & Huny Lotion 
+<br />1000 mg Hemp & Huny Lotion 
 
-<br />Lavender & YlangYlang
+<br />Peppermint & Eucalytus
 
 <br />Net Wt. 8 oz.
 
@@ -98,7 +96,9 @@ silky texture.
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD and Hemp Oil.
+Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+{{% /w3-notice-icon %}}
+
 {{% w3-alert-icon 
 type="warning" 
 heading="Direction for Safe Use" %}}
@@ -121,13 +121,13 @@ Glyceryl  Stearate, Isopropyl Myristate, Caprylic/Capric Glyceride, Stearic Acid
 Shea Butter,  Dimethicone, Phenoxyethanol, Sunflower 
 Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat 
 Milk Extract, Hydroxypropyl Trimonium Honey, 
-Triisopropanolamine, Disodium, Lavender Essential Oil,
-YlangYlang Essential Oil
+Triisopropanolamine, Disodium, Peppermint Essential Oil,
+Eucalyptus Essential Oil
 
 
 
 ## price
 
 **USD**
-Retail $39.00
+Retail $99.00
 Shipping 3.95

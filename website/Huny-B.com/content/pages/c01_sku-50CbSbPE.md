@@ -59,7 +59,7 @@ tags:
   
 resImgTeaser: https://Huny-B.info/images/x32/00850003024011_A0N0_en-US_s01.png
 
-slug: sku-50CBSBPE
+slug: 850003024011
 
 ---
 Our Serenity Bath Bombs have 50 mg’s of CBD and are the bomb above all of Bath Bombs. With the combination of CBD and Essential Oils these Bath Bombs will give you a wonderful soaking experience! Enjoy the "Spa like" experience from you own home!
@@ -70,7 +70,8 @@ Our Serenity Bath Bombs have 50 mg’s of CBD and are the bomb above all of Bath
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-![test](https://Huny-B.info/images/x32/00850003024011_A0N0_en-US_s01.jpg)
+![test](https://Huny-B.info/images/x600/00850003024011_A0N0_en-US_s01.jpg)
+
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 

@@ -1,19 +1,21 @@
 ---
 weight:      1
 
-title:       "500 CBD Serenity Hemp & Huny Body Butter Vanilla and Honey"
+title:       "1000 CBD Serenity Hemp & Huny Body Butter Peppermint & Eucalyptus"
 
 date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https:/Huny-B.info/images/x32/00850003024608_A0NF_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https:/Huny-B.info/images/x300/00850003024608_A0NF_en-US_s01.png
 
-description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
+resImgTeaser: https:/Huny-B.info/images/x64/00850003024608_A0NF_en-US_s01.png
+
+description: Our Hemp & Huny Body Butter is designed to soothe dry and irritated skin and much more.
 
 categories: 
   - catalog
@@ -21,8 +23,9 @@ categories:
 products: 
   - Hemp & Huny Body Butter
 
+# qrCode
 c:
-  - "62"
+  - "64"
   
 concerns:
   - Dry skin
@@ -31,6 +34,10 @@ concerns:
   - neuropathy
   - fibromyalgia
   - arthritis
+  - stressed out
+  - mental exhaustion
+  - congestion
+  - depression
   - restlessness
   - muscle aches
   - sore muscles
@@ -42,34 +49,32 @@ concerns:
 ingredients:
   - CBD
   - Hemp Seed Oil
-  - Vanilla Essential Oil
-  - Honey
+  - Peppermint Essential Oil
+  - Eucalyptus Essential Oil
 
-keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, vanilla, honey, body butter, lotion, moisturizer, dry skin, skin condition]
+keywords: [CBD, Hemp Oil, Joint Inflammation, sleeplessness, neuropathy, fibromyalgia, arthritis, stressed out, mental exhaustion, restlessness, muscle aches, sore muscles, cramps, anti-inflammatory, pain, spa, relief, aromatherapy, broad spectrum, full spectrum, hemp oil, relaxing, soothe, Peppermint Essential Oil, Eucalyptus Essential oil, dry skin, moisturizer, itchy skin, skin condition, body butter, skin irritation]
 
   
 tags: 
-  - UPC 8-50003-02462-2
-  - GTIN 00850003024622
-  - SKU 500bbvh
+  - UPC 8-50003-02464-6
+  - GTIN 00850003024646
+  - SKU 1000bbpe
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
-
-slug: sku-500bbvh
+slug: 850003024646
 
 ---
-Our luxurious 500 mg  Hemp & Huny Body Butters lets you 
+Our luxurious extra strength 1000 mg  Hemp & Huny Body Butters lets you 
 indulge in an intensive, creamy all over body moisturizer.  Its
 rich thick, buttery formula melts into your skin and absorbs easily without
 feeling greasy. Leaves the skin feeling softer and smoother to the touch, with a 
 wonderful delicate scent.  Infused with CBD, Hemp Seed Oil, and Essential Oils 
 our Body Butter is designed to penetrate your muscles to help with: Dry Skin, 
-Itching, Muscle Pain, Muscle Soreness, Muscle Spasms,  Joint Pain,
-Nerve Pain, and Inflammation plus so much more!  
+Itching, Muscle Pain, Muscle Soreness, Muscle Spasms, Joint Pain,
+Nerve Pain, and Inflammation plus so much more! 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="8NM2MQBEFCD6Y">
+<input type="hidden" name="hosted_button_id" value="7BATLNQANQXVQ">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
@@ -78,14 +83,14 @@ Nerve Pain, and Inflammation plus so much more!
 
 
 
+![test](https://Huny-B.info/images/x600/00850003024608_A0NF_en-US_s01.jpg)
 
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
-<br />500 mg Hemp & Huny Body Butter 
+<br />1000 mg Hemp & Huny Body Butter
 
-<br />Vanilla and Honey
+<br />Peppermint & Eucalytus
 
 <br />Net Wt. 8 oz.
 
@@ -93,7 +98,7 @@ Nerve Pain, and Inflammation plus so much more!
     
 ## Information Panels
 {{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD and Hemp Oil.
+Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
 {{% /w3-notice-icon %}}
 
 {{% w3-alert-icon 
@@ -108,7 +113,7 @@ which allows for CBD and Essential Oils to penetrate the muscles easier.
 {{% w3-alert-icon 
 type="danger" 
 heading="Caution" %}}
-For External Use Only
+External use only.
 {{% /w3-alert-icon %}}
   
 
@@ -120,12 +125,15 @@ Glyceryl  Stearate, Isopropyl Myristate, Caprylic/Capric Glyceride, Stearic Acid
 Shea Butter,  Dimethicone, Phenoxyethanol, Sunflower 
 Oil, Caprylyl Glycol, Aloe Barbadensis  Leaf Juice, Goat 
 Milk Extract, Hydroxypropyl Trimonium Honey, 
-Triisopropanolamine, Disodium, Vanilla and Honey fragrance oil
+Triisopropanolamine, Disodium, Peppermint Essential Oil,
+Eucalyptus Essential Oil
+
 
 
 ## price
 
 **USD**
-Retail $79.00
+Retail $119.00
 Shipping 3.95
+
 

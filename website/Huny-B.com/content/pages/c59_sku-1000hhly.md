@@ -7,11 +7,13 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-draft: true
+draft: false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https:/Huny-B.info/images/x32/00850003024608_A0NF_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https:/Huny-B.info/images/x300/00850003024608_A0NF_en-US_s01.png
+
+resImgTeaser: https:/Huny-B.info/images/x64/00850003024608_A0NF_en-US_s01.png
 
 description: Our Hemp & Huny Lotion is designed to soothe dry and irritated skin and much more.
 
@@ -56,9 +58,7 @@ tags:
   - GTIN 00850003024592
   - SKU 1000hhly
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
-
-slug: sku-1000hhly
+slug: 850003024592
 
 ---
 Huny-B's 1000 mg Hemp and Huny Lotion is enriched with CBD derived 
@@ -82,7 +82,8 @@ silky texture.
 
 
 
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
+![test](https://Huny-B.info/images/x600/00850003024608_A0NF_en-US_s01.jpg)
+
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 
