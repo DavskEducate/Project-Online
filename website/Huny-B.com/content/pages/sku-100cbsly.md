@@ -7,9 +7,9 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w64
+icon: https://Huny-B.info/images/x32/00850003024202_A3N1_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https://Huny-B.info/images/x32/00850003024202_A3N1_en-US_s01.png
 
 description: We designed our 100 mg CBD Lavender and YlangYlang Bath Salts to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and YlangYlang Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. 
 c:
@@ -56,7 +56,7 @@ tags:
   - GTIN 00850003024219
   - SKU 100cbsly
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
+resImgTeaser: https://Huny-B.info/images/x64/00850003024202_A3N1_en-US_s01.png
 
 slug: sku-100cbsly
 
@@ -68,7 +68,7 @@ slug: sku-100cbsly
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-![test](/images/gdti/00850003024028_A0N0_en-US_s01_300x300.jpg)
+![test](https://Huny-B.info/images/x600/00850003024202_A3N1_en-US_s01.jpg)
 ## Front Panel
     Huny-B CBD
    100 mg CBD Serenity Bath Salts 

@@ -7,9 +7,9 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w120
+icon: https://Huny-B.info/images/x32/00850003024011_A0N0_en-US_s01.png
 
-teaserpic: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w512
+teaserpic: https://Huny-B.info/images/x64/00850003024011_A0N0_en-US_s01.png
 
 description: We designed our 50 mg CBD Peppermint and Eucalyptus Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. 
 categories: 
@@ -57,7 +57,7 @@ tags:
   - GTIN 00850003024011
   - SKU 50CBSBPE
   
-resImgTeaser: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240
+resImgTeaser: https://Huny-B.info/images/x32/00850003024011_A0N0_en-US_s01.png
 
 slug: sku-50CBSBPE
 
@@ -70,7 +70,7 @@ Our Serenity Bath Bombs have 50 mg’s of CBD and are the bomb above all of Bath
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-![test](https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w240)
+![test](https://Huny-B.info/images/x32/00850003024011_A0N0_en-US_s01.jpg)
 {{< alert type="secondary" intro="Front Panel" >}}
 <br />Huny-B CBD
 

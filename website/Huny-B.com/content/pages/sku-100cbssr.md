@@ -7,9 +7,11 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w64
+draft: true
 
-teaserpic: /images/gdti/00850003024035_A0N0_en-US_s01_120x120.jpg
+icon: https://Huny-B.info/images/x32/00850003024226_A0N0_en-US_s01.png
+
+teaserpic: https://Huny-B.info/images/x32/00850003024226_A0N0_en-US_s01.png
 
 description: We designed our 100 mg CBD Sweet Orange and Rosemary Bath Salts to re-energize and invigorate by taking advantage of the wonderful energizing and uplifting properties of CBD, Sweet Orange and Ginger Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. 
 

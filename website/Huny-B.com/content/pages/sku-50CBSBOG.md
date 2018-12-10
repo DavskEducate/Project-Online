@@ -7,9 +7,9 @@ date:        2018-11-28T13:11:18-06:00
 
 toc:         false
 
-icon: https://lh3.googleusercontent.com/tHaRo-MJXiY0ABnS6fX8Y0868Zfn4rvm0tfPcgixrwQB9ow8Wc0Ey8BOtQYoGzHGaKOQcMYQ8T1W1dTpb6MV6wzfRpkGw5amI7YUV9b5NdNiKNJLsSEE3UchkQcxMG8Ng6UYfEEhcg=w64
+icon: https://Huny-B.info/images/x32/00850003024035_A0N0_en-US_s01.png
 
-teaserpic: /images/gdti/00850003024035_A0N0_en-US_s01_120x120.jpg
+teaserpic: https://Huny-B.info/images/x64/00850003024035_A0N0_en-US_s01.png
 
 description: We designed our 50 mg CBD Sweet Orange and Ginger Bath Bombs to re-energize and invigorate by taking advantage of the wonderful energizing and uplifting properties of CBD, Sweet Orange and Ginger Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 
@@ -45,7 +45,7 @@ tags:
   - GTIN 00850003024035
   - SKU 50CBSBOG
   
-resImgTeaser: /images/gdti/00850003024035_A0N0_en-US_s01_120x120.jpg
+resImgTeaser: https://Huny-B.info/images/x64/00850003024035_A0N0_en-US_s01.png
 
 slug: sku-50CBSBOG
 
@@ -59,7 +59,7 @@ Our Serenity Bath Bombs have 50 mg’s of CBD and are the bomb above all of Bath
 </form>
 
 
-![test](/images/gdti/00850003024035_A0N0_en-US_s01_240x240.jpg)
+![test](https://Huny-B.info/images/x600/00850003024035_A0N0_en-US_s01.jpg)
 ## Front Panel
     Huny-B CBD
     50 mg CBD Serenity Bath Bomb 
