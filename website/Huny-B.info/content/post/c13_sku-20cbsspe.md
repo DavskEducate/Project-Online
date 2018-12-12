@@ -5,7 +5,7 @@ title:       "20 mg CBD Serenity Shower Melts Peppermint & Eucalyptus"
 
 date:        2018-11-28T13:11:18-06:00
 
-toc:         false
+toc:         true
 
 draft: false
 
@@ -64,59 +64,60 @@ tags:
 slug: 850003024134
 
 ---
+# 20 mg CBD Serenity Shower Melts Peppermint & Eucalyptus
+
+![test](https://Huny-B.info/images/x300/00850003024000_A0CL_en-US_s26.jpg)
+
+**Front Panel**
+
+    Huny-B CBD
+    20 mg CBD Serenity Shower Melt 
+    Pepperment & Eucalyptus
+    Net Wt. 2 oz.
+    1 application
+    
+## Information Panels
+
+**Intended Use**
+
+Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils by the way of aromatherapy and entering your pours through the steam.
+
+**Direction for Safe Use**
+
+Place your Serenity Shower Steamer 
+in the back of the shower away 
+from the direct spray and enjoy the aromatherapy.
+
+**Caution**
+
+Tub or shower may be slippery when entering and exiting.
+
+## Ingredients en-US 
+
+**Active Ingredients**
+
+    CBD
+    Baking Soda
+    Epson Salt
+    Coconut Oil
+    Peppermint Essential Oil
+    Eucalyptus Essential Oil
+    
+**Other Ingredients**
+    
+    Water
+
+
+## price
+
+**USD**
+
+    Retail $5.99
+    Shipping 3.95
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="3E7W4CMGEJJBN">
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
-![test](https://Huny-B.info/images/x600/00850003024000_A0CL_en-US_s26.jpg)
-
-{{< alert type="secondary" intro="Front Panel" >}}
-<br />Huny-B CBD
-
-<br />20 mg CBD Serenity Shower Melt 
-
-<br />Pepperment & Eucalyptus
-
-<br />Net Wt. 2 oz.
-
-<br />1 application
-{{< /alert >}}
-    
-## Information Panels
-{{% w3-notice-icon type="success" heading="Intended Use" %}}
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils by the way of aromatherapy and entering your pours through the steam.
-{{% /w3-notice-icon %}}
-
-{{% w3-alert-icon 
-type="warning" 
-heading="Direction for Safe Use" %}}
-Place your Serenity Shower Steamer in the back of the shower away from the direct spray and enjoy the aromatherapy.
-{{% /w3-alert-icon %}}
-
-{{% w3-alert-icon 
-type="danger" 
-heading="Caution" %}}
-Tub or shower may be slippery when entering and exiting.
-{{% /w3-alert-icon %}}
-  
-
-## Ingredients en-US 
-### Active Ingredients
-* CBD
-* Baking Soda
-* Epson Salt
-* Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
-### Other Ingredients
-* water
-
-
-## price
-
-**USD**
-Retail $5.99
-Shipping 3.95

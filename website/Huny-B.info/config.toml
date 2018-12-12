@@ -19,3 +19,11 @@ canonifyurls = true
   #gplus = "Your Google+ profile name"
   #linkedin = "Your LinkedIn Name"
 
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  concern = "concerns"
+  ingredient = "ingredients"
+  product = "products"
+  report = "reports"
+  qrcode = "c"
